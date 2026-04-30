@@ -1,4 +1,4 @@
-# Facal an Latha — Daily Scots Gaelic Word (SMS)
+# Facal an Latha - Word of the Day
 
 *Facal an latha* literally means “word of the day” in scottish gaelic.
 
