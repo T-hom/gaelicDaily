@@ -13,6 +13,9 @@ Each message includes:
 * Phonetic pronunciation
 * Example sentence both in Gaelic & English
 
+<p align="left">
+  <img src="imgs/preview.png" alt="SMS preview" width="300"/>
+</p>
 ## Why I made this
 
 After seeing a couple of Hammy Sgìth’s videos, there was just something about the way he pronounces *facal an latha* that really stuck with me. I’d later remember the video, which meant I remembered the word and could actually use it when speaking to my girlfriend.
