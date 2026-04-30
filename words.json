@@ -1,0 +1,3726 @@
+[
+  {
+    "word": "madainn",
+    "meaning": "morning",
+    "pronunciation": "MAH-deen",
+    "example": "Madainn mhath! — Good morning!",
+    "category": "greetings"
+  },
+  {
+    "word": "feasgar",
+    "meaning": "afternoon / evening",
+    "pronunciation": "FESS-kur",
+    "example": "Feasgar math dhuibh. — Good afternoon to you.",
+    "category": "greetings"
+  },
+  {
+    "word": "oidhche",
+    "meaning": "night",
+    "pronunciation": "UH-eech-uh",
+    "example": "Oidhche mhath! — Good night!",
+    "category": "greetings"
+  },
+  {
+    "word": "tapadh leat",
+    "meaning": "thank you (informal)",
+    "pronunciation": "TAH-puh lat",
+    "example": "Tapadh leat airson do chuideachadh. — Thank you for your help.",
+    "category": "greetings"
+  },
+  {
+    "word": "slàinte",
+    "meaning": "health / cheers",
+    "pronunciation": "SLAHN-chuh",
+    "example": "Slàinte mhath! — Good health! (a common toast)",
+    "category": "greetings"
+  },
+  {
+    "word": "uisge",
+    "meaning": "water / rain",
+    "pronunciation": "OOSH-kuh",
+    "example": "Tha an t-uisge ann an-diugh. — It's raining today.",
+    "category": "weather"
+  },
+  {
+    "word": "grianach",
+    "meaning": "sunny",
+    "pronunciation": "GREE-an-ach",
+    "example": "Tha latha grianach ann. — It's a sunny day.",
+    "category": "weather"
+  },
+  {
+    "word": "gaoth",
+    "meaning": "wind",
+    "pronunciation": "GOO",
+    "example": "Tha gaoth làidir ann. — There's a strong wind.",
+    "category": "weather"
+  },
+  {
+    "word": "sneachd",
+    "meaning": "snow",
+    "pronunciation": "SNECHK",
+    "example": "Tha sneachd air a' bheinn. — There's snow on the mountain.",
+    "category": "weather"
+  },
+  {
+    "word": "beann",
+    "meaning": "mountain / peak",
+    "pronunciation": "BYOW-n",
+    "example": "Tha a' bheann àrd. — The mountain is high.",
+    "category": "nature"
+  },
+  {
+    "word": "loch",
+    "meaning": "lake",
+    "pronunciation": "LOCH (with guttural ch)",
+    "example": "Tha an loch brèagha an-diugh. — The lake is beautiful today.",
+    "category": "nature"
+  },
+  {
+    "word": "coille",
+    "meaning": "forest / wood",
+    "pronunciation": "KUL-uh",
+    "example": "Choisich sinn tron choille. — We walked through the forest.",
+    "category": "nature"
+  },
+  {
+    "word": "muir",
+    "meaning": "sea",
+    "pronunciation": "MOO-ir",
+    "example": "Tha a' mhuir ciùin an-diugh. — The sea is calm today.",
+    "category": "nature"
+  },
+  {
+    "word": "eilean",
+    "meaning": "island",
+    "pronunciation": "AY-lan",
+    "example": "Tha an t-eilean àlainn. — The island is beautiful.",
+    "category": "nature"
+  },
+  {
+    "word": "craobh",
+    "meaning": "tree",
+    "pronunciation": "KROOV",
+    "example": "Tha craobh mhòr sa ghàrradh. — There's a big tree in the garden.",
+    "category": "nature"
+  },
+  {
+    "word": "clach",
+    "meaning": "stone / rock",
+    "pronunciation": "KLACH",
+    "example": "Thog e clach bhon tràigh. — He picked up a stone from the beach.",
+    "category": "nature"
+  },
+  {
+    "word": "tràigh",
+    "meaning": "beach",
+    "pronunciation": "TRAH-ee",
+    "example": "Chaidh sinn chun na tràighe. — We went to the beach.",
+    "category": "nature"
+  },
+  {
+    "word": "abhainn",
+    "meaning": "river",
+    "pronunciation": "AH-veen",
+    "example": "Tha an abhainn a' ruith gu luath. — The river is running fast.",
+    "category": "nature"
+  },
+  {
+    "word": "cù",
+    "meaning": "dog",
+    "pronunciation": "KOO",
+    "example": "Tha cù mòr aige. — He has a big dog.",
+    "category": "animals"
+  },
+  {
+    "word": "cat",
+    "meaning": "cat",
+    "pronunciation": "KAHT",
+    "example": "Tha an cat na chadal. — The cat is asleep.",
+    "category": "animals"
+  },
+  {
+    "word": "each",
+    "meaning": "horse",
+    "pronunciation": "ECH",
+    "example": "Tha an t-each anns an achadh. — The horse is in the field.",
+    "category": "animals"
+  },
+  {
+    "word": "fiadh",
+    "meaning": "deer",
+    "pronunciation": "FEE-ugh",
+    "example": "Chunnaic mi fiadh sa choille. — I saw a deer in the forest.",
+    "category": "animals"
+  },
+  {
+    "word": "iolair",
+    "meaning": "eagle",
+    "pronunciation": "YUL-er",
+    "example": "Chunnaic sinn iolair os cionn a' bheinne. — We saw an eagle above the mountain.",
+    "category": "animals"
+  },
+  {
+    "word": "iasg",
+    "meaning": "fish",
+    "pronunciation": "EE-usk",
+    "example": "Ghlac e iasg mòr. — He caught a big fish.",
+    "category": "animals"
+  },
+  {
+    "word": "bò",
+    "meaning": "cow",
+    "pronunciation": "BOH",
+    "example": "Tha a' bhò anns a' phàirc. — The cow is in the field.",
+    "category": "animals"
+  },
+  {
+    "word": "caora",
+    "meaning": "sheep",
+    "pronunciation": "KOO-ruh",
+    "example": "Tha mòran chaorach air a' mhonadh. — There are many sheep on the moor.",
+    "category": "animals"
+  },
+  {
+    "word": "taigh",
+    "meaning": "house",
+    "pronunciation": "TIE",
+    "example": "Tha an taigh agam faisg air an sgoil. — My house is near the school.",
+    "category": "home"
+  },
+  {
+    "word": "biadh",
+    "meaning": "food",
+    "pronunciation": "BEE-ugh",
+    "example": "Tha am biadh blasta. — The food is tasty.",
+    "category": "food"
+  },
+  {
+    "word": "aran",
+    "meaning": "bread",
+    "pronunciation": "AH-ran",
+    "example": "Ceannaich aran bhon bhùth. — Buy bread from the shop.",
+    "category": "food"
+  },
+  {
+    "word": "bainne",
+    "meaning": "milk",
+    "pronunciation": "BAN-yuh",
+    "example": "A bheil bainne agad? — Do you have milk?",
+    "category": "food"
+  },
+  {
+    "word": "feòil",
+    "meaning": "meat",
+    "pronunciation": "FYAWL",
+    "example": "Cha toil leam feòil. — I don't like meat.",
+    "category": "food"
+  },
+  {
+    "word": "càise",
+    "meaning": "cheese",
+    "pronunciation": "KAH-shuh",
+    "example": "Tha càise math air an aran. — Cheese is good on bread.",
+    "category": "food"
+  },
+  {
+    "word": "tì",
+    "meaning": "tea",
+    "pronunciation": "TEE",
+    "example": "An gabh thu cupa tì? — Will you have a cup of tea?",
+    "category": "food"
+  },
+  {
+    "word": "cofaidh",
+    "meaning": "coffee",
+    "pronunciation": "KOH-fee",
+    "example": "Tha mi ag iarraidh cofaidh. — I want a coffee.",
+    "category": "food"
+  },
+  {
+    "word": "teaghlach",
+    "meaning": "family",
+    "pronunciation": "CHOH-lach",
+    "example": "Tha teaghlach mòr agam. — I have a big family.",
+    "category": "family"
+  },
+  {
+    "word": "athair",
+    "meaning": "father",
+    "pronunciation": "AH-her",
+    "example": "Tha m' athair à Glaschu. — My father is from Glasgow.",
+    "category": "family"
+  },
+  {
+    "word": "màthair",
+    "meaning": "mother",
+    "pronunciation": "MAH-her",
+    "example": "Tha mo mhàthair glè laghach. — My mother is very kind.",
+    "category": "family"
+  },
+  {
+    "word": "bràthair",
+    "meaning": "brother",
+    "pronunciation": "BRAH-her",
+    "example": "Tha aon bhràthair agam. — I have one brother.",
+    "category": "family"
+  },
+  {
+    "word": "piuthar",
+    "meaning": "sister",
+    "pronunciation": "PYOO-er",
+    "example": "Tha mo phiuthar anns an oilthigh. — My sister is at university.",
+    "category": "family"
+  },
+  {
+    "word": "caraid",
+    "meaning": "friend",
+    "pronunciation": "KAH-rich",
+    "example": "Is e deagh charaid a th' ann. — He is a good friend.",
+    "category": "people"
+  },
+  {
+    "word": "balach",
+    "meaning": "boy",
+    "pronunciation": "BAH-lach",
+    "example": "Tha am balach a' cluich. — The boy is playing.",
+    "category": "people"
+  },
+  {
+    "word": "caileag",
+    "meaning": "girl",
+    "pronunciation": "KAL-ak",
+    "example": "Tha a' chaileag a' leughadh. — The girl is reading.",
+    "category": "people"
+  },
+  {
+    "word": "duine",
+    "meaning": "man / person",
+    "pronunciation": "DOON-yuh",
+    "example": "Cò an duine sin? — Who is that man?",
+    "category": "people"
+  },
+  {
+    "word": "boireannach",
+    "meaning": "woman",
+    "pronunciation": "BOR-un-ach",
+    "example": "Tha am boireannach a' seinn. — The woman is singing.",
+    "category": "people"
+  },
+  {
+    "word": "leabhar",
+    "meaning": "book",
+    "pronunciation": "LYOW-er",
+    "example": "Tha mi a' leughadh leabhar math. — I'm reading a good book.",
+    "category": "objects"
+  },
+  {
+    "word": "sgoil",
+    "meaning": "school",
+    "pronunciation": "SKOL",
+    "example": "Tha mi a' dol dhan sgoil. — I'm going to school.",
+    "category": "places"
+  },
+  {
+    "word": "baile",
+    "meaning": "town / village",
+    "pronunciation": "BAL-uh",
+    "example": "Tha am baile beag ach snog. — The town is small but nice.",
+    "category": "places"
+  },
+  {
+    "word": "rathad",
+    "meaning": "road / way",
+    "pronunciation": "RAH-ud",
+    "example": "Dè an rathad a ghabhas mi? — Which road should I take?",
+    "category": "places"
+  },
+  {
+    "word": "eaglais",
+    "meaning": "church",
+    "pronunciation": "EG-lish",
+    "example": "Tha an eaglais anns a' bhaile. — The church is in the town.",
+    "category": "places"
+  },
+  {
+    "word": "bùth",
+    "meaning": "shop",
+    "pronunciation": "BOO",
+    "example": "Chaidh mi dhan bhùth. — I went to the shop.",
+    "category": "places"
+  },
+  {
+    "word": "mòr",
+    "meaning": "big / great",
+    "pronunciation": "MOHR",
+    "example": "Tha an taigh mòr. — The house is big.",
+    "category": "adjectives"
+  },
+  {
+    "word": "beag",
+    "meaning": "small / little",
+    "pronunciation": "BEK",
+    "example": "Tha an cù beag. — The dog is small.",
+    "category": "adjectives"
+  },
+  {
+    "word": "math",
+    "meaning": "good",
+    "pronunciation": "MAH",
+    "example": "Tha sin math. — That's good.",
+    "category": "adjectives"
+  },
+  {
+    "word": "dona",
+    "meaning": "bad",
+    "pronunciation": "DON-uh",
+    "example": "Tha an aimsir dona. — The weather is bad.",
+    "category": "adjectives"
+  },
+  {
+    "word": "àlainn",
+    "meaning": "beautiful / lovely",
+    "pronunciation": "AH-leen",
+    "example": "Tha an latha àlainn. — The day is beautiful.",
+    "category": "adjectives"
+  },
+  {
+    "word": "brèagha",
+    "meaning": "fine / lovely / beautiful",
+    "pronunciation": "BREE-uh-uh",
+    "example": "Tha latha brèagha ann. — It's a fine day.",
+    "category": "adjectives"
+  },
+  {
+    "word": "fuar",
+    "meaning": "cold",
+    "pronunciation": "FOO-ur",
+    "example": "Tha e fuar an-diugh. — It's cold today.",
+    "category": "adjectives"
+  },
+  {
+    "word": "blàth",
+    "meaning": "warm",
+    "pronunciation": "BLAH",
+    "example": "Tha an tì blàth. — The tea is warm.",
+    "category": "adjectives"
+  },
+  {
+    "word": "sean",
+    "meaning": "old",
+    "pronunciation": "SHEN",
+    "example": "Tha an taigh sean. — The house is old.",
+    "category": "adjectives"
+  },
+  {
+    "word": "ùr",
+    "meaning": "new / fresh",
+    "pronunciation": "OOR",
+    "example": "Tha càr ùr aige. — He has a new car.",
+    "category": "adjectives"
+  },
+  {
+    "word": "luath",
+    "meaning": "fast / quick",
+    "pronunciation": "LOO-uh",
+    "example": "Tha an cù luath. — The dog is fast.",
+    "category": "adjectives"
+  },
+  {
+    "word": "slaodach",
+    "meaning": "slow",
+    "pronunciation": "SLOO-dach",
+    "example": "Tha am bus slaodach. — The bus is slow.",
+    "category": "adjectives"
+  },
+  {
+    "word": "dearg",
+    "meaning": "red",
+    "pronunciation": "JER-ak",
+    "example": "Tha an t-aparan dearg. — The apron is red.",
+    "category": "colours"
+  },
+  {
+    "word": "gorm",
+    "meaning": "blue / green (of grass)",
+    "pronunciation": "GOR-um",
+    "example": "Tha an speur gorm. — The sky is blue.",
+    "category": "colours"
+  },
+  {
+    "word": "uaine",
+    "meaning": "green",
+    "pronunciation": "OO-an-yuh",
+    "example": "Tha na craobhan uaine. — The trees are green.",
+    "category": "colours"
+  },
+  {
+    "word": "bàn",
+    "meaning": "white / fair",
+    "pronunciation": "BAHN",
+    "example": "Tha an sneachd bàn. — The snow is white.",
+    "category": "colours"
+  },
+  {
+    "word": "dubh",
+    "meaning": "black",
+    "pronunciation": "DOO",
+    "example": "Tha an cat dubh. — The cat is black.",
+    "category": "colours"
+  },
+  {
+    "word": "buidhe",
+    "meaning": "yellow",
+    "pronunciation": "BOO-yuh",
+    "example": "Tha a' ghrian buidhe. — The sun is yellow.",
+    "category": "colours"
+  },
+  {
+    "word": "aon",
+    "meaning": "one",
+    "pronunciation": "OON",
+    "example": "Tha aon chù agam. — I have one dog.",
+    "category": "numbers"
+  },
+  {
+    "word": "dà",
+    "meaning": "two",
+    "pronunciation": "DAH",
+    "example": "Tha dà chat agam. — I have two cats.",
+    "category": "numbers"
+  },
+  {
+    "word": "trì",
+    "meaning": "three",
+    "pronunciation": "TREE",
+    "example": "Tha trì leabhraichean agam. — I have three books.",
+    "category": "numbers"
+  },
+  {
+    "word": "ceithir",
+    "meaning": "four",
+    "pronunciation": "KAY-hir",
+    "example": "Tha ceithir seòmraichean san taigh. — There are four rooms in the house.",
+    "category": "numbers"
+  },
+  {
+    "word": "còig",
+    "meaning": "five",
+    "pronunciation": "KOH-ik",
+    "example": "Tha còig peansailean agam. — I have five pencils.",
+    "category": "numbers"
+  },
+  {
+    "word": "an-diugh",
+    "meaning": "today",
+    "pronunciation": "un-JOO",
+    "example": "Dè tha thu a' dèanamh an-diugh? — What are you doing today?",
+    "category": "time"
+  },
+  {
+    "word": "a-màireach",
+    "meaning": "tomorrow",
+    "pronunciation": "uh-MAH-rach",
+    "example": "Chì mi thu a-màireach. — I'll see you tomorrow.",
+    "category": "time"
+  },
+  {
+    "word": "an-dè",
+    "meaning": "yesterday",
+    "pronunciation": "un-JAY",
+    "example": "Bha mi anns a' bhaile an-dè. — I was in town yesterday.",
+    "category": "time"
+  },
+  {
+    "word": "là",
+    "meaning": "day",
+    "pronunciation": "LAH",
+    "example": "Là math dhut! — Good day to you!",
+    "category": "time"
+  },
+  {
+    "word": "seachdain",
+    "meaning": "week",
+    "pronunciation": "SHACH-keen",
+    "example": "Chì mi thu an ath sheachdain. — I'll see you next week.",
+    "category": "time"
+  },
+  {
+    "word": "bliadhna",
+    "meaning": "year",
+    "pronunciation": "BLEE-un-uh",
+    "example": "Bliadhna Mhath Ùr! — Happy New Year!",
+    "category": "time"
+  },
+  {
+    "word": "obair",
+    "meaning": "work",
+    "pronunciation": "OH-bur",
+    "example": "Tha mi a' dol dhan obair. — I'm going to work.",
+    "category": "daily life"
+  },
+  {
+    "word": "cadal",
+    "meaning": "sleep",
+    "pronunciation": "KAH-dul",
+    "example": "Tha mi airson cadal. — I want to sleep.",
+    "category": "daily life"
+  },
+  {
+    "word": "ithe",
+    "meaning": "eating / to eat",
+    "pronunciation": "EE-huh",
+    "example": "Tha mi ag ithe mo bhracaist. — I'm eating my breakfast.",
+    "category": "daily life"
+  },
+  {
+    "word": "òl",
+    "meaning": "drinking / to drink",
+    "pronunciation": "AWL",
+    "example": "Tha mi ag òl uisge. — I'm drinking water.",
+    "category": "daily life"
+  },
+  {
+    "word": "coiseachd",
+    "meaning": "walking",
+    "pronunciation": "KOSH-achk",
+    "example": "Tha mi a' coiseachd dhan sgoil. — I'm walking to school.",
+    "category": "daily life"
+  },
+  {
+    "word": "ruith",
+    "meaning": "running / to run",
+    "pronunciation": "ROO-ee",
+    "example": "Tha an cù a' ruith. — The dog is running.",
+    "category": "daily life"
+  },
+  {
+    "word": "seinn",
+    "meaning": "singing / to sing",
+    "pronunciation": "SHAYN",
+    "example": "Tha i a' seinn òran. — She is singing a song.",
+    "category": "daily life"
+  },
+  {
+    "word": "dannsa",
+    "meaning": "dance / dancing",
+    "pronunciation": "DAHN-suh",
+    "example": "Tha iad a' dannsa còmhla. — They are dancing together.",
+    "category": "daily life"
+  },
+  {
+    "word": "leughadh",
+    "meaning": "reading / to read",
+    "pronunciation": "LYAY-ugh",
+    "example": "Tha mi a' leughadh leabhar. — I'm reading a book.",
+    "category": "daily life"
+  },
+  {
+    "word": "sgrìobhadh",
+    "meaning": "writing / to write",
+    "pronunciation": "SKREE-vugh",
+    "example": "Tha mi a' sgrìobhadh litir. — I'm writing a letter.",
+    "category": "daily life"
+  },
+  {
+    "word": "cànan",
+    "meaning": "language",
+    "pronunciation": "KAH-nun",
+    "example": "Tha Gàidhlig na cànan brèagha. — Gaelic is a beautiful language.",
+    "category": "culture"
+  },
+  {
+    "word": "ceòl",
+    "meaning": "music",
+    "pronunciation": "KYAWL",
+    "example": "Is toil leam ceòl tradiseanta. — I like traditional music.",
+    "category": "culture"
+  },
+  {
+    "word": "òran",
+    "meaning": "song",
+    "pronunciation": "AWR-an",
+    "example": "Seinn òran dhomh. — Sing me a song.",
+    "category": "culture"
+  },
+  {
+    "word": "cèilidh",
+    "meaning": "ceilidh / social gathering with music and dance",
+    "pronunciation": "KAY-lee",
+    "example": "Tha cèilidh anns an talla a-nochd. — There's a ceilidh in the hall tonight.",
+    "category": "culture"
+  },
+  {
+    "word": "Alba",
+    "meaning": "Scotland",
+    "pronunciation": "AL-uh-puh",
+    "example": "Tha mi a' fuireach ann an Alba. — I live in Scotland.",
+    "category": "culture"
+  },
+  {
+    "word": "Gàidhlig",
+    "meaning": "Scottish Gaelic (the language)",
+    "pronunciation": "GAH-lik",
+    "example": "Tha mi ag ionnsachadh Gàidhlig. — I'm learning Gaelic.",
+    "category": "culture"
+  },
+  {
+    "word": "sìth",
+    "meaning": "peace",
+    "pronunciation": "SHEE",
+    "example": "Tha sìth anns a' ghleann. — There is peace in the glen.",
+    "category": "abstract"
+  },
+  {
+    "word": "gràdh",
+    "meaning": "love",
+    "pronunciation": "GRAH",
+    "example": "Tha gràdh agam dhut. — I love you.",
+    "category": "abstract"
+  },
+  {
+    "word": "dòchas",
+    "meaning": "hope",
+    "pronunciation": "DAW-chus",
+    "example": "Tha dòchas agam. — I have hope.",
+    "category": "abstract"
+  },
+  {
+    "word": "saorsa",
+    "meaning": "freedom",
+    "pronunciation": "SOOR-suh",
+    "example": "Tha saorsa cudromach. — Freedom is important.",
+    "category": "abstract"
+  },
+  {
+    "word": "misneachd",
+    "meaning": "courage / confidence",
+    "pronunciation": "MEESH-nyachk",
+    "example": "Tha misneachd a dhìth ort. — You need courage.",
+    "category": "abstract"
+  },
+  {
+    "word": "dìlseachd",
+    "meaning": "loyalty / faithfulness",
+    "pronunciation": "JEEL-shachk",
+    "example": "Tha dìlseachd na rud prìseil. — Loyalty is a precious thing.",
+    "category": "abstract"
+  },
+  {
+    "word": "spòrs",
+    "meaning": "fun / sport",
+    "pronunciation": "SPAWRS",
+    "example": "Bha spòrs mhòr againn. — We had great fun.",
+    "category": "abstract"
+  },
+  {
+    "word": "pìob",
+    "meaning": "pipe (as in bagpipe)",
+    "pronunciation": "PEEB",
+    "example": "Tha e a' cluich na pìoba. — He is playing the pipes.",
+    "category": "culture"
+  },
+  {
+    "word": "gleann",
+    "meaning": "glen / valley",
+    "pronunciation": "GLYOW-n",
+    "example": "Tha an gleann uaine agus brèagha. — The glen is green and beautiful.",
+    "category": "nature"
+  },
+  {
+    "word": "bogha-froise",
+    "meaning": "rainbow",
+    "pronunciation": "BOH-uh FROSH-uh",
+    "example": "Tha bogha-froise anns an speur! — There's a rainbow in the sky!",
+    "category": "weather"
+  },
+  {
+    "word": "reul",
+    "meaning": "star",
+    "pronunciation": "REE-al",
+    "example": "Tha na reultan a' deàrrsadh. — The stars are shining.",
+    "category": "nature"
+  },
+  {
+    "word": "gealach",
+    "meaning": "moon",
+    "pronunciation": "GYAL-ach",
+    "example": "Tha a' ghealach làn a-nochd. — The moon is full tonight.",
+    "category": "nature"
+  },
+  {
+    "word": "grian",
+    "meaning": "sun",
+    "pronunciation": "GREE-un",
+    "example": "Tha a' ghrian a' deàrrsadh. — The sun is shining.",
+    "category": "nature"
+  },
+  {
+    "word": "dachaigh",
+    "meaning": "home",
+    "pronunciation": "DACH-ee",
+    "example": "Tha mi a' dol dhachaigh. — I'm going home.",
+    "category": "home"
+  },
+  {
+    "word": "sràid",
+    "meaning": "street",
+    "pronunciation": "STRAHJ",
+    "example": "Tha an sràid trang. — The street is busy.",
+    "category": "places"
+  },
+  {
+    "word": "drochaid",
+    "meaning": "bridge",
+    "pronunciation": "DROCH-ij",
+    "example": "Choisich sinn thar na drochaide. — We walked over the bridge.",
+    "category": "places"
+  },
+  {
+    "word": "achadh",
+    "meaning": "field",
+    "pronunciation": "ACH-ugh",
+    "example": "Tha na caoraich anns an achadh. — The sheep are in the field.",
+    "category": "nature"
+  },
+  {
+    "word": "sgòth",
+    "meaning": "cloud",
+    "pronunciation": "SKAW",
+    "example": "Tha sgòthan dorcha anns an speur. — There are dark clouds in the sky.",
+    "category": "weather"
+  },
+  {
+    "word": "speur",
+    "meaning": "sky",
+    "pronunciation": "SPAY-ur",
+    "example": "Tha an speur gorm an-diugh. — The sky is blue today.",
+    "category": "nature"
+  },
+  {
+    "word": "teine",
+    "meaning": "fire",
+    "pronunciation": "CHEN-uh",
+    "example": "Cuir teine air. — Light a fire.",
+    "category": "home"
+  },
+  {
+    "word": "uinneag",
+    "meaning": "window",
+    "pronunciation": "OON-yak",
+    "example": "Fosgail an uinneag. — Open the window.",
+    "category": "home"
+  },
+  {
+    "word": "doras",
+    "meaning": "door",
+    "pronunciation": "DOR-us",
+    "example": "Dùin an doras. — Close the door.",
+    "category": "home"
+  },
+  {
+    "word": "gàrradh",
+    "meaning": "garden / wall",
+    "pronunciation": "GAH-rugh",
+    "example": "Tha flùraichean anns a' ghàrradh. — There are flowers in the garden.",
+    "category": "home"
+  },
+  {
+    "word": "sìde",
+    "meaning": "weather",
+    "pronunciation": "SHEE-juh",
+    "example": "Ciamar a tha an t-sìde? — How is the weather?",
+    "category": "weather"
+  },
+  {
+    "word": "ceist",
+    "meaning": "question",
+    "pronunciation": "KAYSHCH",
+    "example": "Tha ceist agam. — I have a question.",
+    "category": "abstract"
+  },
+  {
+    "word": "freagairt",
+    "meaning": "answer / reply",
+    "pronunciation": "FREK-arshch",
+    "example": "Tha freagairt agam dhut. — I have an answer for you.",
+    "category": "abstract"
+  },
+  {
+    "word": "facal",
+    "meaning": "word",
+    "pronunciation": "FACH-kul",
+    "example": "Dè am facal Gàidhlig airson sin? — What's the Gaelic word for that?",
+    "category": "culture"
+  },
+  {
+    "word": "stòiridh",
+    "meaning": "story",
+    "pronunciation": "STAW-ree",
+    "example": "Innis stòiridh dhomh. — Tell me a story.",
+    "category": "culture"
+  },
+  {
+    "word": "cianalas",
+    "meaning": "homesickness / longing",
+    "pronunciation": "KEE-an-al-as",
+    "example": "Tha cianalas orm airson na h-Alba. — I am homesick for Scotland.",
+    "category": "emotions"
+  },
+  {
+    "word": "solas",
+    "meaning": "light / comfort / joy",
+    "pronunciation": "SOL-as",
+    "example": "Tha solas na grèine teth. — The sunlight is warm.",
+    "category": "nature"
+  },
+  {
+    "word": "dorchadas",
+    "meaning": "darkness",
+    "pronunciation": "DORCH-ad-as",
+    "example": "Tha dorchadas anns a' choille. — There is darkness in the forest.",
+    "category": "nature"
+  },
+  {
+    "word": "bruthach",
+    "meaning": "slope / hillside",
+    "pronunciation": "BROO-ach",
+    "example": "Choisich sinn suas a' bhruach. — We walked up the slope.",
+    "category": "nature"
+  },
+  {
+    "word": "còrr",
+    "meaning": "excess / more / leftover",
+    "pronunciation": "KORR",
+    "example": "A bheil còrr agad? — Do you have any more?",
+    "category": "daily life"
+  },
+  {
+    "word": "falamh",
+    "meaning": "empty",
+    "pronunciation": "FAL-av",
+    "example": "Tha am bùth falamh. — The shop is empty.",
+    "category": "adjectives"
+  },
+  {
+    "word": "làn",
+    "meaning": "full",
+    "pronunciation": "LAHN",
+    "example": "Tha am bus làn. — The bus is full.",
+    "category": "adjectives"
+  },
+  {
+    "word": "cùram",
+    "meaning": "care / concern / worry",
+    "pronunciation": "KOO-rum",
+    "example": "Chan eil cùram agam. — I don't have a care.",
+    "category": "abstract"
+  },
+  {
+    "word": "fios",
+    "meaning": "knowledge / information",
+    "pronunciation": "FEE-os",
+    "example": "Tha fios agam. — I know. (literally: I have knowledge)",
+    "category": "abstract"
+  },
+  {
+    "word": "smuain",
+    "meaning": "thought / idea",
+    "pronunciation": "SMOO-in",
+    "example": "Tha smuain mhath agam. — I have a good idea.",
+    "category": "abstract"
+  },
+  {
+    "word": "bruidhinn",
+    "meaning": "speaking / talking",
+    "pronunciation": "BROO-in",
+    "example": "Tha mi a' bruidhinn Gàidhlig. — I am speaking Gaelic.",
+    "category": "daily life"
+  },
+  {
+    "word": "èisteachd",
+    "meaning": "listening",
+    "pronunciation": "AYSCH-achk",
+    "example": "Tha mi ag èisteachd ri ceòl. — I am listening to music.",
+    "category": "daily life"
+  },
+  {
+    "word": "faicinn",
+    "meaning": "seeing",
+    "pronunciation": "FACH-in",
+    "example": "Tha mi a' faicinn an eich. — I am seeing the horse.",
+    "category": "daily life"
+  },
+  {
+    "word": "tuigsinn",
+    "meaning": "understanding",
+    "pronunciation": "TOO-ik-sin",
+    "example": "Tha mi a' tuigsinn. — I understand.",
+    "category": "abstract"
+  },
+  {
+    "word": "ionnsachadh",
+    "meaning": "learning",
+    "pronunciation": "YOON-sa-chugh",
+    "example": "Tha mi ag ionnsachadh Gàidhlig. — I am learning Gaelic.",
+    "category": "daily life"
+  },
+  {
+    "word": "teagasg",
+    "meaning": "teaching",
+    "pronunciation": "CHEK-ask",
+    "example": "Tha i a' teagasg Gàidhlig. — She is teaching Gaelic.",
+    "category": "daily life"
+  },
+  {
+    "word": "cuimhne",
+    "meaning": "memory",
+    "pronunciation": "KOO-iv-nyuh",
+    "example": "Tha cuimhne mhath agam. — I have a good memory.",
+    "category": "abstract"
+  },
+  {
+    "word": "àm",
+    "meaning": "time",
+    "pronunciation": "AHM",
+    "example": "Dè an àm a th' ann? — What time is it?",
+    "category": "time"
+  },
+  {
+    "word": "tachartas",
+    "meaning": "event / happening",
+    "pronunciation": "TACH-ar-tas",
+    "example": "Tha tachartas mhòr an-diugh. — There is a big event today.",
+    "category": "abstract"
+  },
+  {
+    "word": "aonach",
+    "meaning": "mountain ridge / fair",
+    "pronunciation": "OO-nach",
+    "example": "Tha aonach mòr ann an Inbhir Nis. — There is a big fair in Inverness.",
+    "category": "culture"
+  },
+  {
+    "word": "fèis",
+    "meaning": "festival / feast",
+    "pronunciation": "FAYSH",
+    "example": "Tha fèis cheòl ann an Ùige. — There is a music festival in Uig.",
+    "category": "culture"
+  },
+  {
+    "word": "mòd",
+    "meaning": "literary festival / assembly",
+    "pronunciation": "MAWD",
+    "example": "Tha am Mòd Nàiseanta ann am bliadhna. — The National Mòd is on this year.",
+    "category": "culture"
+  },
+  {
+    "word": "bàrdachd",
+    "meaning": "poetry",
+    "pronunciation": "BAHR-achk",
+    "example": "Tha e a' sgrìobhadh bàrdachd. — He is writing poetry.",
+    "category": "culture"
+  },
+  {
+    "word": "litir",
+    "meaning": "letter",
+    "pronunciation": "LIT-eer",
+    "example": "Tha litir bhuaitse agam. — I have a letter from you.",
+    "category": "objects"
+  },
+  {
+    "word": "pàipear",
+    "meaning": "paper",
+    "pronunciation": "PAH-pear",
+    "example": "Tha mi a' sgrìobhadh air pàipear. — I am writing on paper.",
+    "category": "objects"
+  },
+  {
+    "word": "peann",
+    "meaning": "pen",
+    "pronunciation": "PYOWN",
+    "example": "Tha peann agam. — I have a pen.",
+    "category": "objects"
+  },
+  {
+    "word": "làmh",
+    "meaning": "hand",
+    "pronunciation": "LAHV",
+    "example": "Tha mo làmh fuar. — My hand is cold.",
+    "category": "body"
+  },
+  {
+    "word": "ceann",
+    "meaning": "head",
+    "pronunciation": "KYOWN",
+    "example": "Tha mo cheann goirt. — My head is sore.",
+    "category": "body"
+  },
+  {
+    "word": "sròn",
+    "meaning": "nose",
+    "pronunciation": "STROHN",
+    "example": "Tha mo shròn fuar. — My nose is cold.",
+    "category": "body"
+  },
+  {
+    "word": "sùil",
+    "meaning": "eye",
+    "pronunciation": "SOO-il",
+    "example": "Tha sùil ghorm agam. — I have a blue eye.",
+    "category": "body"
+  },
+  {
+    "word": "cluas",
+    "meaning": "ear",
+    "pronunciation": "KLOO-as",
+    "example": "Tha mo chluas goirt. — My ear is sore.",
+    "category": "body"
+  },
+  {
+    "word": "beul",
+    "meaning": "mouth",
+    "pronunciation": "BYAYL",
+    "example": "Tha beul mòr aige. — He has a big mouth.",
+    "category": "body"
+  },
+  {
+    "word": "cas",
+    "meaning": "foot / leg",
+    "pronunciation": "KAS",
+    "example": "Tha mo chas goirt. — My foot is sore.",
+    "category": "body"
+  },
+  {
+    "word": "cridhe",
+    "meaning": "heart",
+    "pronunciation": "KREE-yuh",
+    "example": "Tha mo chridhe làn de ghàdh. — My heart is full of love.",
+    "category": "body"
+  },
+  {
+    "word": "falt",
+    "meaning": "hair",
+    "pronunciation": "FALCHT",
+    "example": "Tha falt ruadh oirre. — She has red hair.",
+    "category": "body"
+  },
+  {
+    "word": "deoch",
+    "meaning": "drink",
+    "pronunciation": "JAY-ach",
+    "example": "Gabh deoch. — Have a drink.",
+    "category": "food"
+  },
+  {
+    "word": "bracaist",
+    "meaning": "breakfast",
+    "pronunciation": "BRAH-kasht",
+    "example": "Tha mi ag ithe mo bhracaist. — I am eating my breakfast.",
+    "category": "food"
+  },
+  {
+    "word": "dinnear",
+    "meaning": "dinner",
+    "pronunciation": "JEEN-yar",
+    "example": "Tha dinnear ullamh. — Dinner is ready.",
+    "category": "food"
+  },
+  {
+    "word": "suipper",
+    "meaning": "supper",
+    "pronunciation": "SOO-par",
+    "example": "Tha mi ag ithe an t-suipper. — I am eating supper.",
+    "category": "food"
+  },
+  {
+    "word": "sgadan",
+    "meaning": "herring",
+    "pronunciation": "SKAH-dan",
+    "example": "Tha sgadan math airson do shlàinte. — Herring is good for your health.",
+    "category": "food"
+  },
+  {
+    "word": "brot",
+    "meaning": "broth / soup",
+    "pronunciation": "BROHT",
+    "example": "Tha brot teth agam. — I have hot soup.",
+    "category": "food"
+  },
+  {
+    "word": "im",
+    "meaning": "butter",
+    "pronunciation": "EEM",
+    "example": "Cuir im air an aran. — Put butter on the bread.",
+    "category": "food"
+  },
+  {
+    "word": "siùcar",
+    "meaning": "sugar",
+    "pronunciation": "SHOO-kar",
+    "example": "Cuir siùcar anns an tì. — Put sugar in the tea.",
+    "category": "food"
+  },
+  {
+    "word": "salann",
+    "meaning": "salt",
+    "pronunciation": "SAH-lan",
+    "example": "Cuir salann air. — Put salt on it.",
+    "category": "food"
+  },
+  {
+    "word": "piobar",
+    "meaning": "pepper",
+    "pronunciation": "PEE-bar",
+    "example": "Cuir piobar air. — Put pepper on it.",
+    "category": "food"
+  },
+  {
+    "word": "fìon",
+    "meaning": "wine",
+    "pronunciation": "FEE-un",
+    "example": "Tha fìon dearg agam. — I have red wine.",
+    "category": "food"
+  },
+  {
+    "word": "beòr",
+    "meaning": "beer",
+    "pronunciation": "BYAWR",
+    "example": "Tha beòr fuar agam. — I have cold beer.",
+    "category": "food"
+  },
+  {
+    "word": "uisge-beatha",
+    "meaning": "whisky (literally: water of life)",
+    "pronunciation": "OOSH-kuh BAY-huh",
+    "example": "Tha dram de dh'uisge-beatha agam. — I have a dram of whisky.",
+    "category": "food"
+  },
+  {
+    "word": "sgeulachd",
+    "meaning": "story / tale / legend",
+    "pronunciation": "SKYAYL-achk",
+    "example": "Innis sgeulachd dhomh. — Tell me a story.",
+    "category": "culture"
+  },
+  {
+    "word": "bòcan",
+    "meaning": "ghost / spectre / hobgoblin",
+    "pronunciation": "BOH-kan",
+    "example": "Tha bòcan anns an taigh shean. — There is a ghost in the old house.",
+    "category": "folklore"
+  },
+  {
+    "word": "sìthiche",
+    "meaning": "fairy / faerie",
+    "pronunciation": "SHEE-ich-uh",
+    "example": "Tha sìthichean anns a' choille. — There are fairies in the forest.",
+    "category": "folklore"
+  },
+  {
+    "word": "bean-nighe",
+    "meaning": "washerwoman (fairy who washes bloody clothes of those about to die)",
+    "pronunciation": "BYAN NEE-uh",
+    "example": "Chunnaic e bean-nighe aig an abhainn. — He saw a washerwoman at the river.",
+    "category": "folklore"
+  },
+  {
+    "word": "each-uisge",
+    "meaning": "water horse (dangerous water spirit)",
+    "pronunciation": "ECH OOSH-kuh",
+    "example": "Tha each-uisge anns an loch. — There is a water horse in the loch.",
+    "category": "folklore"
+  },
+  {
+    "word": "bròn",
+    "meaning": "sorrow / grief",
+    "pronunciation": "BROHN",
+    "example": "Tha bròn orm. — I am sad. (literally: sorrow is on me)",
+    "category": "emotions"
+  },
+  {
+    "word": "àigh",
+    "meaning": "joy / delight / prosperity",
+    "pronunciation": "AH-ee",
+    "example": "Tha àigh ort! — Good luck to you!",
+    "category": "emotions"
+  },
+  {
+    "word": "eagal",
+    "meaning": "fear",
+    "pronunciation": "EK-al",
+    "example": "Tha eagal orm. — I am afraid.",
+    "category": "emotions"
+  },
+  {
+    "word": "toilichte",
+    "meaning": "happy / pleased",
+    "pronunciation": "TUL-ich-chuh",
+    "example": "Tha mi toilichte. — I am happy.",
+    "category": "emotions"
+  },
+  {
+    "word": "brònach",
+    "meaning": "sad",
+    "pronunciation": "BROH-nach",
+    "example": "Tha mi brònach an-diugh. — I am sad today.",
+    "category": "emotions"
+  },
+  {
+    "word": "fuarag",
+    "meaning": "cold / chill (weather)",
+    "pronunciation": "FOO-ar-ak",
+    "example": "Tha fuarag an-diugh. — There is a chill today.",
+    "category": "weather"
+  },
+  {
+    "word": "ceoban",
+    "meaning": "mist / fog",
+    "pronunciation": "KYO-ban",
+    "example": "Tha ceoban trom anns a' ghleann. — There is thick mist in the glen.",
+    "category": "weather"
+  },
+  {
+    "word": "doilear",
+    "meaning": "drizzle",
+    "pronunciation": "DOL-yar",
+    "example": "Tha doilear an-diugh. — It is drizzling today.",
+    "category": "weather"
+  },
+  {
+    "word": "tàirneanach",
+    "meaning": "thunder",
+    "pronunciation": "TAHR-nyan-ach",
+    "example": "Chuala mi tàirneanach. — I heard thunder.",
+    "category": "weather"
+  },
+  {
+    "word": "dealanaich",
+    "meaning": "lightning",
+    "pronunciation": "JAL-an-ich",
+    "example": "Chunnaic mi dealanaich. — I saw lightning.",
+    "category": "weather"
+  },
+  {
+    "word": "deigh",
+    "meaning": "ice / frost",
+    "pronunciation": "JAY",
+    "example": "Tha deigh air an uidheam. — There is ice on the road.",
+    "category": "weather"
+  },
+  {
+    "word": "reòthadh",
+    "meaning": "freezing / frost",
+    "pronunciation": "RYAW-hugh",
+    "example": "Tha reòthadh ann. — There is frost.",
+    "category": "weather"
+  },
+  {
+    "word": "sileadh",
+    "meaning": "pouring rain",
+    "pronunciation": "SHIL-yugh",
+    "example": "Tha an t-uisge a' sileadh. — The rain is pouring.",
+    "category": "weather"
+  },
+  {
+    "word": "cladach",
+    "meaning": "shore / coast / beach",
+    "pronunciation": "KLATH-ach",
+    "example": "Chaidh sinn dhan chladach. — We went to the shore.",
+    "category": "nature"
+  },
+  {
+    "word": "cuan",
+    "meaning": "ocean / sea",
+    "pronunciation": "KOO-an",
+    "example": "Tha a' chuan mòr agus làidir. — The ocean is big and strong.",
+    "category": "nature"
+  },
+  {
+    "word": "tonn",
+    "meaning": "wave",
+    "pronunciation": "TOWN",
+    "example": "Tha na tonnan àrd. — The waves are high.",
+    "category": "nature"
+  },
+  {
+    "word": "creag",
+    "meaning": "cliff / rock",
+    "pronunciation": "KRAY-ak",
+    "example": "Tha creag àrd os cionn na mara. — There is a high cliff above the sea.",
+    "category": "nature"
+  },
+  {
+    "word": "uamh",
+    "meaning": "cave",
+    "pronunciation": "OO-av",
+    "example": "Tha uamh anns a' chreig. — There is a cave in the cliff.",
+    "category": "nature"
+  },
+  {
+    "word": "eas",
+    "meaning": "waterfall",
+    "pronunciation": "YAS",
+    "example": "Tha eas brèagha anns a' ghleann. — There is a beautiful waterfall in the glen.",
+    "category": "nature"
+  },
+  {
+    "word": "fuaran",
+    "meaning": "spring / well (water source)",
+    "pronunciation": "FOO-ar-an",
+    "example": "Tha fuaran fuar anns a' choille. — There is a cold spring in the forest.",
+    "category": "nature"
+  },
+  {
+    "word": "monadh",
+    "meaning": "moor / upland",
+    "pronunciation": "MON-ugh",
+    "example": "Tha na caoraich air a' mhonadh. — The sheep are on the moor.",
+    "category": "nature"
+  },
+  {
+    "word": "machair",
+    "meaning": "fertile grassy plain (especially by the sea)",
+    "pronunciation": "MAH-khar",
+    "example": "Tha am machair brèagha anns na h-Eileanan. — The machair is beautiful in the Islands.",
+    "category": "nature"
+  },
+  {
+    "word": "càrn",
+    "meaning": "cairn / pile of stones",
+    "pronunciation": "KAHRN",
+    "example": "Chunnaic mi càrn air a' bheinn. — I saw a cairn on the mountain.",
+    "category": "nature"
+  },
+  {
+    "word": "tom",
+    "meaning": "mound / hillock / knoll",
+    "pronunciation": "TOHM",
+    "example": "Tha tom beag anns a' phàirc. — There is a small mound in the field.",
+    "category": "nature"
+  },
+  {
+    "word": "bad",
+    "meaning": "clump / tuft / thicket",
+    "pronunciation": "BAHT",
+    "example": "Tha bad de choilltean an sin. — There is a thicket of trees there.",
+    "category": "nature"
+  },
+  {
+    "word": "rùis",
+    "meaning": "promontory / headland",
+    "pronunciation": "ROOSH",
+    "example": "Tha rùis àrd aig ceann an eilein. — There is a high headland at the end of the island.",
+    "category": "nature"
+  },
+  {
+    "word": "sgeir",
+    "meaning": "skerry / rocky islet",
+    "pronunciation": "SKAYR",
+    "example": "Tha sgeirean mòra anns a' chuan. — There are many skerries in the ocean.",
+    "category": "nature"
+  },
+  {
+    "word": "bogha",
+    "meaning": "arch / bow",
+    "pronunciation": "BOH-uh",
+    "example": "Tha bogha àrd anns an eaglais. — There is a high arch in the church.",
+    "category": "objects"
+  },
+  {
+    "word": "dorus",
+    "meaning": "doorway / entrance",
+    "pronunciation": "DOR-us",
+    "example": "Cuir an cù air falbh bhon dorus. — Put the dog away from the doorway.",
+    "category": "home"
+  },
+  {
+    "word": "solas-solais",
+    "meaning": "lamplight / artificial light",
+    "pronunciation": "SOL-as SOL-ish",
+    "example": "Tha solas-solais anns an taigh. — There is lamplight in the house.",
+    "category": "home"
+  },
+  {
+    "word": "solas-grèine",
+    "meaning": "sunlight",
+    "pronunciation": "SOL-as GRAYN-yuh",
+    "example": "Tha solas-grèine teth a-steach. — Hot sunlight is coming in.",
+    "category": "nature"
+  },
+  {
+    "word": "solas-gealaich",
+    "meaning": "moonlight",
+    "pronunciation": "SOL-as GYAL-ich",
+    "example": "Tha solas-gealaich a' deàrrsadh. — The moonlight is shining.",
+    "category": "nature"
+  },
+  {
+    "word": "solas-reultan",
+    "meaning": "starlight",
+    "pronunciation": "SOL-as RYAL-tan",
+    "example": "Tha solas-reultan anns an oidhche. — There is starlight in the night.",
+    "category": "nature"
+  },
+  {
+    "word": "dorcha",
+    "meaning": "dark",
+    "pronunciation": "DORCH-uh",
+    "example": "Tha an oidhche dorcha. — The night is dark.",
+    "category": "adjectives"
+  },
+  {
+    "word": "soilleir",
+    "meaning": "bright / clear",
+    "pronunciation": "SUL-yar",
+    "example": "Tha an latha soilleir. — The day is bright.",
+    "category": "adjectives"
+  },
+  {
+    "word": "ciùin",
+    "meaning": "calm / quiet / peaceful",
+    "pronunciation": "KYOO-in",
+    "example": "Tha a' mhuir ciùin. — The sea is calm.",
+    "category": "adjectives"
+  },
+  {
+    "word": "garbh",
+    "meaning": "rough / coarse",
+    "pronunciation": "GAR-av",
+    "example": "Tha an cuan garbh an-diugh. — The ocean is rough today.",
+    "category": "adjectives"
+  },
+  {
+    "word": "cruaidh",
+    "meaning": "hard / difficult",
+    "pronunciation": "KROO-ee",
+    "example": "Tha an clach cruaidh. — The stone is hard.",
+    "category": "adjectives"
+  },
+  {
+    "word": "bog",
+    "meaning": "soft / moist",
+    "pronunciation": "BOHG",
+    "example": "Tha an talamh bog. — The ground is soft.",
+    "category": "adjectives"
+  },
+  {
+    "word": "teth",
+    "meaning": "hot",
+    "pronunciation": "CHEH",
+    "example": "Tha an tè teth. — The tea is hot.",
+    "category": "adjectives"
+  },
+  {
+    "word": "tioram",
+    "meaning": "dry",
+    "pronunciation": "CHEE-ram",
+    "example": "Tha an talamh tioram. — The ground is dry.",
+    "category": "adjectives"
+  },
+  {
+    "word": "fliuch",
+    "meaning": "wet",
+    "pronunciation": "FLYOOCH",
+    "example": "Tha mi fliuch. — I am wet.",
+    "category": "adjectives"
+  },
+  {
+    "word": "salach",
+    "meaning": "dirty",
+    "pronunciation": "SAH-lach",
+    "example": "Tha an lèine salach. — The shirt is dirty.",
+    "category": "adjectives"
+  },
+  {
+    "word": "glan",
+    "meaning": "clean",
+    "pronunciation": "GLAHN",
+    "example": "Tha an taigh glan. — The house is clean.",
+    "category": "adjectives"
+  },
+  {
+    "word": "còir",
+    "meaning": "right / just / proper",
+    "pronunciation": "KOR",
+    "example": "Tha sin còir. — That is right.",
+    "category": "adjectives"
+  },
+  {
+    "word": "ceàrr",
+    "meaning": "wrong / incorrect",
+    "pronunciation": "KYAHR",
+    "example": "Tha sin ceàrr. — That is wrong.",
+    "category": "adjectives"
+  },
+  {
+    "word": "fada",
+    "meaning": "long / far",
+    "pronunciation": "FAH-duh",
+    "example": "Tha an rathad fada. — The road is long.",
+    "category": "adjectives"
+  },
+  {
+    "word": "goirid",
+    "meaning": "short",
+    "pronunciation": "GOR-id",
+    "example": "Tha an latha goirid anns an t-earrach. — The day is short in winter.",
+    "category": "adjectives"
+  },
+  {
+    "word": "àrd",
+    "meaning": "high / tall",
+    "pronunciation": "AHRT",
+    "example": "Tha a' bheann àrd. — The mountain is high.",
+    "category": "adjectives"
+  },
+  {
+    "word": "ìosal",
+    "meaning": "low",
+    "pronunciation": "EE-sal",
+    "example": "Tha an loch ìosal. — The lake is low.",
+    "category": "adjectives"
+  },
+  {
+    "word": "dlùth",
+    "meaning": "close / near / dense",
+    "pronunciation": "DLOO",
+    "example": "Tha an taigh dlùth. — The house is close.",
+    "category": "adjectives"
+  },
+  {
+    "word": "fada air falbh",
+    "meaning": "far away",
+    "pronunciation": "FAH-duh air FAHL-av",
+    "example": "Tha e fada air falbh. — He is far away.",
+    "category": "adjectives"
+  },
+  {
+    "word": "saoghal",
+    "meaning": "world / life",
+    "pronunciation": "SOO-al",
+    "example": "Tha an saoghal mòr. — The world is big.",
+    "category": "abstract"
+  },
+  {
+    "word": "cùis",
+    "meaning": "cause / matter / affair",
+    "pronunciation": "KOOSH",
+    "example": "Dè an cùis? — What is the matter?",
+    "category": "abstract"
+  },
+  {
+    "word": "suidheachadh",
+    "meaning": "situation / circumstances",
+    "pronunciation": "SOO-ee-ach-ugh",
+    "example": "Tha an suidheachadh doirbh. — The situation is difficult.",
+    "category": "abstract"
+  },
+  {
+    "word": "beachd",
+    "meaning": "opinion / view",
+    "pronunciation": "BYACHK",
+    "example": "Dè do bheachd? — What is your opinion?",
+    "category": "abstract"
+  },
+  {
+    "word": "fàth",
+    "meaning": "reason / cause",
+    "pronunciation": "FAH",
+    "example": "Dè an fàth? — What is the reason?",
+    "category": "abstract"
+  },
+  {
+    "word": "gnothach",
+    "meaning": "business / matter",
+    "pronunciation": "GROH-ach",
+    "example": "Dè an gnothach? — What is the business?",
+    "category": "abstract"
+  },
+  {
+    "word": "fàilte",
+    "meaning": "welcome",
+    "pronunciation": "FAHL-chuh",
+    "example": "Fàilte gu Alba! — Welcome to Scotland!",
+    "category": "greetings"
+  },
+  {
+    "word": "beannachd",
+    "meaning": "blessing / farewell",
+    "pronunciation": "BYAN-achk",
+    "example": "Beannachd leat! — Farewell! (blessing go with you)",
+    "category": "greetings"
+  },
+  {
+    "word": "mar sin leat",
+    "meaning": "goodbye (informal)",
+    "pronunciation": "mar SHIN lat",
+    "example": "Mar sin leat! — Goodbye!",
+    "category": "greetings"
+  },
+  {
+    "word": "deireadh",
+    "meaning": "end",
+    "pronunciation": "JER-yugh",
+    "example": "Tha e aig an deireadh. — It is at the end.",
+    "category": "time"
+  },
+  {
+    "word": "tòiseach",
+    "meaning": "beginning",
+    "pronunciation": "TAWSH-ich",
+    "example": "Tha e aig an tòiseach. — It is at the beginning.",
+    "category": "time"
+  },
+  {
+    "word": "meadhan",
+    "meaning": "middle / centre",
+    "pronunciation": "MEE-an",
+    "example": "Tha e anns a' mheadhan. — It is in the middle.",
+    "category": "places"
+  },
+  {
+    "word": "taobh",
+    "meaning": "side",
+    "pronunciation": "TOO-iv",
+    "example": "Tha e air an taobh seo. — It is on this side.",
+    "category": "places"
+  },
+  {
+    "word": "cùl",
+    "meaning": "back / rear",
+    "pronunciation": "KOOL",
+    "example": "Tha e air a' chùl. — It is at the back.",
+    "category": "places"
+  },
+  {
+    "word": "bun",
+    "meaning": "bottom / base",
+    "pronunciation": "BOON",
+    "example": "Tha e aig a' bhun. — It is at the bottom.",
+    "category": "places"
+  },
+  {
+    "word": "barr",
+    "meaning": "top / summit",
+    "pronunciation": "BAHR",
+    "example": "Tha e air a' bharr. — It is at the top.",
+    "category": "places"
+  },
+  {
+    "word": "a-steach",
+    "meaning": "inside / in",
+    "pronunciation": "uh-STAKH",
+    "example": "Thig a-steach! — Come in!",
+    "category": "places"
+  },
+  {
+    "word": "a-muigh",
+    "meaning": "outside / out",
+    "pronunciation": "uh-MOO-ee",
+    "example": "Tha e a-muigh. — He is outside.",
+    "category": "places"
+  },
+  {
+    "word": "os cionn",
+    "meaning": "above / over",
+    "pronunciation": "os KYOON",
+    "example": "Tha e os cionn an taighe. — It is above the house.",
+    "category": "places"
+  },
+  {
+    "word": "fon",
+    "meaning": "under / below",
+    "pronunciation": "FOHN",
+    "example": "Tha e fon bhòrd. — It is under the table.",
+    "category": "places"
+  },
+  {
+    "word": "eadar",
+    "meaning": "between",
+    "pronunciation": "ET-ar",
+    "example": "Tha e eadar an dithis. — It is between the two.",
+    "category": "places"
+  },
+  {
+    "word": "mu choinneamh",
+    "meaning": "opposite / facing",
+    "pronunciation": "moo CHOON-yav",
+    "example": "Tha e mu choinneamh an taighe. — It is opposite the house.",
+    "category": "places"
+  },
+  {
+    "word": "còmhla",
+    "meaning": "together",
+    "pronunciation": "KOH-la",
+    "example": "Tha sinn còmhla. — We are together.",
+    "category": "abstract"
+  },
+  {
+    "word": "leth",
+    "meaning": "half",
+    "pronunciation": "LEH",
+    "example": "Tha mi leth-fhliuch. — I am half-wet.",
+    "category": "numbers"
+  },
+  {
+    "word": "iomlan",
+    "meaning": "whole / entire",
+    "pronunciation": "YOM-lan",
+    "example": "Tha an taigh iomlan. — The house is whole.",
+    "category": "adjectives"
+  },
+  {
+    "word": "cuid",
+    "meaning": "some / part",
+    "pronunciation": "KOO-id",
+    "example": "Tha cuid agam. — I have some.",
+    "category": "abstract"
+  },
+  {
+    "word": "mòran",
+    "meaning": "many / much",
+    "pronunciation": "MOR-an",
+    "example": "Tha mòran againn. — We have many.",
+    "category": "numbers"
+  },
+  {
+    "word": "beagan",
+    "meaning": "few / little",
+    "pronunciation": "BEK-an",
+    "example": "Tha beagan agam. — I have a few.",
+    "category": "numbers"
+  },
+  {
+    "word": "uile",
+    "meaning": "all / every",
+    "pronunciation": "OO-il-yuh",
+    "example": "Tha uile duine an seo. — Everyone is here.",
+    "category": "numbers"
+  },
+  {
+    "word": "eile",
+    "meaning": "other / another",
+    "pronunciation": "EL-yuh",
+    "example": "Tha fear eile agam. — I have another one.",
+    "category": "adjectives"
+  },
+  {
+    "word": "cheana",
+    "meaning": "already",
+    "pronunciation": "HEN-uh",
+    "example": "Tha mi cheana. — I am already.",
+    "category": "time"
+  },
+  {
+    "word": "fhathast",
+    "meaning": "still / yet",
+    "pronunciation": "HAH-st",
+    "example": "Tha mi fhathast an seo. — I am still here.",
+    "category": "time"
+  },
+  {
+    "word": "a-nis",
+    "meaning": "now",
+    "pronunciation": "uh-NEESH",
+    "example": "Tha mi a' dol a-nis. — I am going now.",
+    "category": "time"
+  },
+  {
+    "word": "a-rithist",
+    "meaning": "again",
+    "pronunciation": "uh-REE-hist",
+    "example": "Dèan e a-rithist. — Do it again.",
+    "category": "time"
+  },
+  {
+    "word": "gu tric",
+    "meaning": "often",
+    "pronunciation": "goo TREEC",
+    "example": "Tha mi a' dol ann gu tric. — I go there often.",
+    "category": "time"
+  },
+  {
+    "word": "a-riamh",
+    "meaning": "ever",
+    "pronunciation": "uh-REE-av",
+    "example": "An robh thu ann a-riamh? — Were you ever there?",
+    "category": "time"
+  },
+  {
+    "word": "gu bràth",
+    "meaning": "forever",
+    "pronunciation": "goo BRAH",
+    "example": "Bidh mi gad ghràdh gu bràth. — I will love you forever.",
+    "category": "time"
+  },
+  {
+    "word": "cho luath 's",
+    "meaning": "as soon as",
+    "pronunciation": "choh LOO-as",
+    "example": "Thigidh mi cho luath 's a ghabhas mi. — I will come as soon as I can.",
+    "category": "time"
+  },
+  {
+    "word": "air ais",
+    "meaning": "back / returned",
+    "pronunciation": "air ASH",
+    "example": "Tha mi air ais. — I am back.",
+    "category": "abstract"
+  },
+  {
+    "word": "air adhart",
+    "meaning": "forward / onwards",
+    "pronunciation": "air AH-art",
+    "example": "Thig air adhart! — Come forward!",
+    "category": "abstract"
+  },
+  {
+    "word": "air falbh",
+    "meaning": "away / gone",
+    "pronunciation": "air FAHL-av",
+    "example": "Tha e air falbh. — He is away.",
+    "category": "abstract"
+  },
+  {
+    "word": "airson",
+    "meaning": "for",
+    "pronunciation": "AIR-sun",
+    "example": "Tha seo airson thu. — This is for you.",
+    "category": "abstract"
+  },
+  {
+    "word": "le",
+    "meaning": "with",
+    "pronunciation": "LEH",
+    "example": "Tha mi le mo charaid. — I am with my friend.",
+    "category": "abstract"
+  },
+  {
+    "word": "gun",
+    "meaning": "without",
+    "pronunciation": "GOON",
+    "example": "Tha mi gun airgead. — I am without money.",
+    "category": "abstract"
+  },
+  {
+    "word": "mu dheidhinn",
+    "meaning": "about / concerning",
+    "pronunciation": "moo GHAY-in",
+    "example": "Bruidhinn mu dheidhinn. — Talk about it.",
+    "category": "abstract"
+  },
+  {
+    "word": "an aghaidh",
+    "meaning": "against",
+    "pronunciation": "un AH-ee",
+    "example": "Tha mi an aghaidh sin. — I am against that.",
+    "category": "abstract"
+  },
+  {
+    "word": "a dh'ionnsaigh",
+    "meaning": "towards / to",
+    "pronunciation": "uh YOON-see",
+    "example": "Chaidh mi a dh'ionnsaigh an taighe. — I went towards the house.",
+    "category": "places"
+  },
+  {
+    "word": "tro",
+    "meaning": "through",
+    "pronunciation": "TROH",
+    "example": "Chaidh mi tro a' choille. — I went through the forest.",
+    "category": "places"
+  },
+  {
+    "word": "thar",
+    "meaning": "across / over",
+    "pronunciation": "HAR",
+    "example": "Chaidh mi thar an rathaid. — I went across the road.",
+    "category": "places"
+  },
+  {
+    "word": "timcheall",
+    "meaning": "around / about",
+    "pronunciation": "CHEEM-chyal",
+    "example": "Chaidh mi timcheall a' bhaile. — I went around the town.",
+    "category": "places"
+  },
+  {
+    "word": "rè",
+    "meaning": "during / for (time)",
+    "pronunciation": "RAY",
+    "example": "Bha mi an sin rè mìos. — I was there for a month.",
+    "category": "time"
+  },
+  {
+    "word": "ro",
+    "meaning": "before / too",
+    "pronunciation": "ROH",
+    "example": "Thàinig mi ro a' bhàis. — I came before the death.",
+    "category": "time"
+  },
+  {
+    "word": "an dèidh",
+    "meaning": "after",
+    "pronunciation": "un JAY",
+    "example": "Thàinig mi an dèidh a' bhàis. — I came after the death.",
+    "category": "time"
+  },
+  {
+    "word": "fad",
+    "meaning": "while / during",
+    "pronunciation": "FAHT",
+    "example": "Bha mi an sin fad na h-oidhche. — I was there during the night.",
+    "category": "time"
+  },
+  {
+    "word": "aig",
+    "meaning": "at",
+    "pronunciation": "EK",
+    "example": "Tha mi aig an taigh. — I am at the house.",
+    "category": "places"
+  },
+  {
+    "word": "ann an",
+    "meaning": "in",
+    "pronunciation": "ahn AH-n",
+    "example": "Tha mi ann an taigh. — I am in a house.",
+    "category": "places"
+  },
+  {
+    "word": "air",
+    "meaning": "on",
+    "pronunciation": "AIR",
+    "example": "Tha e air a' bhòrd. — It is on the table.",
+    "category": "places"
+  },
+  {
+    "word": "ri",
+    "meaning": "to / at",
+    "pronunciation": "REE",
+    "example": "Tha mi ri taigh. — I am at a house.",
+    "category": "places"
+  },
+  {
+    "word": "bho",
+    "meaning": "from",
+    "pronunciation": "VOH",
+    "example": "Tha mi bho Alba. — I am from Scotland.",
+    "category": "places"
+  },
+  {
+    "word": "gu",
+    "meaning": "to / towards",
+    "pronunciation": "GOO",
+    "example": "Tha mi a' dol gu taigh. — I am going to a house.",
+    "category": "places"
+  },
+  {
+    "word": "troimh",
+    "meaning": "through",
+    "pronunciation": "TROO-iv",
+    "example": "Chaidh mi troimh an dorus. — I went through the door.",
+    "category": "places"
+  },
+  {
+    "word": "far",
+    "meaning": "where",
+    "pronunciation": "FAR",
+    "example": "Càit a bheil thu? — Where are you?",
+    "category": "abstract"
+  },
+  {
+    "word": "cuin",
+    "meaning": "when",
+    "pronunciation": "KOO-in",
+    "example": "Cuin a thàinig thu? — When did you come?",
+    "category": "time"
+  },
+  {
+    "word": "carson",
+    "meaning": "why",
+    "pronunciation": "KAR-sun",
+    "example": "Carson a thàinig thu? — Why did you come?",
+    "category": "abstract"
+  },
+  {
+    "word": "ciamar",
+    "meaning": "how",
+    "pronunciation": "KEE-mar",
+    "example": "Ciamar a tha thu? — How are you?",
+    "category": "abstract"
+  },
+  {
+    "word": "co mheud",
+    "meaning": "how many / how much",
+    "pronunciation": "koh YAY-ud",
+    "example": "Co mheud a th' agad? — How many do you have?",
+    "category": "numbers"
+  },
+  {
+    "word": "co ris a tha e coltach",
+    "meaning": "what is it like",
+    "pronunciation": "koh rish uh ha eh KOL-tach",
+    "example": "Co ris a tha e coltach? — What is it like?",
+    "category": "abstract"
+  },
+  {
+    "word": "am bheil",
+    "meaning": "is / are (question)",
+    "pronunciation": "am YAYL",
+    "example": "Am bheil thu toilichte? — Are you happy?",
+    "category": "grammar"
+  },
+  {
+    "word": "nach eil",
+    "meaning": "isn't / aren't (question)",
+    "pronunciation": "nach AYL",
+    "example": "Nach eil thu toilichte? — Aren't you happy?",
+    "category": "grammar"
+  },
+  {
+    "word": "an e",
+    "meaning": "is it (question)",
+    "pronunciation": "un YAY",
+    "example": "An e sin fìor? — Is that true?",
+    "category": "grammar"
+  },
+  {
+    "word": "chan eil",
+    "meaning": "is not / are not",
+    "pronunciation": "chan AYL",
+    "example": "Chan eil mi sgìth. — I am not tired.",
+    "category": "grammar"
+  },
+  {
+    "word": "tha",
+    "meaning": "is / are (positive)",
+    "pronunciation": "HAH",
+    "example": "Tha mi toilichte. — I am happy.",
+    "category": "grammar"
+  },
+  {
+    "word": "bha",
+    "meaning": "was / were",
+    "pronunciation": "VAH",
+    "example": "Bha mi toilichte. — I was happy.",
+    "category": "grammar"
+  },
+  {
+    "word": "bidh",
+    "meaning": "will be / usually is",
+    "pronunciation": "BEESH",
+    "example": "Bidh mi toilichte. — I will be happy. / I am usually happy.",
+    "category": "grammar"
+  },
+  {
+    "word": "bu chòir",
+    "meaning": "should / ought to",
+    "pronunciation": "boo KOR",
+    "example": "Bu chòir dhut tighinn. — You should come.",
+    "category": "grammar"
+  },
+  {
+    "word": "faodaidh",
+    "meaning": "may / might / can (permission)",
+    "pronunciation": "FOO-ee",
+    "example": "Faodaidh mi tighinn? — May I come?",
+    "category": "grammar"
+  },
+  {
+    "word": "feumaidh",
+    "meaning": "must / need to",
+    "pronunciation": "FAY-mee",
+    "example": "Feumaidh mi falbh. — I must go.",
+    "category": "grammar"
+  },
+  {
+    "word": "sgìth",
+    "meaning": "tired",
+    "pronunciation": "SKEE",
+    "example": "Tha mi sgìth. — I am tired.",
+    "category": "emotions"
+  },
+  {
+    "word": "teth",
+    "meaning": "hot / heated",
+    "pronunciation": "CHEH",
+    "example": "Tha mi teth. — I am hot.",
+    "category": "emotions"
+  },
+  {
+    "word": "acras",
+    "meaning": "hunger",
+    "pronunciation": "AHK-ras",
+    "example": "Tha acras orm. — I am hungry.",
+    "category": "emotions"
+  },
+  {
+    "word": "pathadh",
+    "meaning": "thirst",
+    "pronunciation": "PAH-hugh",
+    "example": "Tha pathadh orm. — I am thirsty.",
+    "category": "emotions"
+  },
+  {
+    "word": "sàthach",
+    "meaning": "full / satisfied",
+    "pronunciation": "SAH-ach",
+    "example": "Tha mi sàthach. — I am full.",
+    "category": "emotions"
+  },
+  {
+    "word": "bochd",
+    "meaning": "poor / pitiful",
+    "pronunciation": "BOCHKT",
+    "example": "Tha e bochd. — He is poor.",
+    "category": "emotions"
+  },
+  {
+    "word": "beairteach",
+    "meaning": "rich / wealthy",
+    "pronunciation": "BYAR-chach",
+    "example": "Tha e beairteach. — He is rich.",
+    "category": "emotions"
+  },
+  {
+    "word": "lag",
+    "meaning": "weak / feeble",
+    "pronunciation": "LAHG",
+    "example": "Tha mi lag. — I am weak.",
+    "category": "emotions"
+  },
+  {
+    "word": "làidir",
+    "meaning": "strong",
+    "pronunciation": "LAH-dir",
+    "example": "Tha e làidir. — He is strong.",
+    "category": "emotions"
+  },
+  {
+    "word": "fallain",
+    "meaning": "healthy / wholesome",
+    "pronunciation": "FAH-lan",
+    "example": "Tha e fallain. — He is healthy.",
+    "category": "emotions"
+  },
+  {
+    "word": "tinn",
+    "meaning": "sick / ill",
+    "pronunciation": "CHEEN",
+    "example": "Tha mi tinn. — I am sick.",
+    "category": "emotions"
+  },
+  {
+    "word": "goirt",
+    "meaning": "sore / painful",
+    "pronunciation": "GORSHT",
+    "example": "Tha mo cheann goirt. — My head is sore.",
+    "category": "emotions"
+  },
+  {
+    "word": "cugallach",
+    "meaning": "nervous / anxious",
+    "pronunciation": "KOO-gal-ach",
+    "example": "Tha mi cugallach. — I am nervous.",
+    "category": "emotions"
+  },
+  {
+    "word": "sàmhach",
+    "meaning": "quiet / silent",
+    "pronunciation": "SAH-vach",
+    "example": "Tha e sàmhach. — He is quiet.",
+    "category": "emotions"
+  },
+  {
+    "word": "brèagach",
+    "meaning": "lying / false",
+    "pronunciation": "BREE-uh-ach",
+    "example": "Tha e brèagach. — He is lying.",
+    "category": "emotions"
+  },
+  {
+    "word": "fìor",
+    "meaning": "true / real",
+    "pronunciation": "FEE-or",
+    "example": "Tha sin fìor. — That is true.",
+    "category": "emotions"
+  },
+  {
+    "word": "breugach",
+    "meaning": "false / deceitful",
+    "pronunciation": "BRYAY-gach",
+    "example": "Tha e breugach. — He is deceitful.",
+    "category": "emotions"
+  },
+  {
+    "word": "còir",
+    "meaning": "kind / gentle",
+    "pronunciation": "KOR",
+    "example": "Tha i còir. — She is kind.",
+    "category": "emotions"
+  },
+  {
+    "word": "laghach",
+    "meaning": "nice / pleasant",
+    "pronunciation": "LAH-ach",
+    "example": "Tha e laghach. — He is nice.",
+    "category": "emotions"
+  },
+  {
+    "word": "droch",
+    "meaning": "bad / evil",
+    "pronunciation": "DROCH",
+    "example": "Tha e droch dhuine. — He is a bad man.",
+    "category": "emotions"
+  },
+  {
+    "word": "math",
+    "meaning": "good / kind",
+    "pronunciation": "MAH",
+    "example": "Tha e math dhuine. — He is a good man.",
+    "category": "emotions"
+  },
+  {
+    "word": "cùiseach",
+    "meaning": "careful / cautious",
+    "pronunciation": "KOOSH-ach",
+    "example": "Bi cùiseach! — Be careful!",
+    "category": "emotions"
+  },
+  {
+    "word": "misneachail",
+    "meaning": "confident / courageous",
+    "pronunciation": "MEESH-nyach-al",
+    "example": "Tha e misneachail. — He is confident.",
+    "category": "emotions"
+  },
+  {
+    "word": "doirbh",
+    "meaning": "difficult / hard",
+    "pronunciation": "DOR-iv",
+    "example": "Tha e doirbh. — It is difficult.",
+    "category": "emotions"
+  },
+  {
+    "word": "furasta",
+    "meaning": "easy / simple",
+    "pronunciation": "FOO-ras-tuh",
+    "example": "Tha e furasta. — It is easy.",
+    "category": "emotions"
+  },
+  {
+    "word": "prìseil",
+    "meaning": "precious / valuable",
+    "pronunciation": "PREE-shal",
+    "example": "Tha e prìseil. — It is precious.",
+    "category": "emotions"
+  },
+  {
+    "word": "saor",
+    "meaning": "free / cheap",
+    "pronunciation": "SOOR",
+    "example": "Tha e saor. — It is free / cheap.",
+    "category": "emotions"
+  },
+  {
+    "word": "daor",
+    "meaning": "expensive / dear",
+    "pronunciation": "DOOR",
+    "example": "Tha e daor. — It is expensive.",
+    "category": "emotions"
+  },
+  {
+    "word": "cudromach",
+    "meaning": "important",
+    "pronunciation": "KOO-drom-ach",
+    "example": "Tha e cudromach. — It is important.",
+    "category": "emotions"
+  },
+  {
+    "word": "neònach",
+    "meaning": "strange / odd",
+    "pronunciation": "NYAW-nach",
+    "example": "Tha e neònach. — It is strange.",
+    "category": "emotions"
+  },
+  {
+    "word": "cumanta",
+    "meaning": "common / usual",
+    "pronunciation": "KOO-man-tuh",
+    "example": "Tha e cumanta. — It is common.",
+    "category": "emotions"
+  },
+  {
+    "word": "eireachdail",
+    "meaning": "beautiful / handsome",
+    "pronunciation": "AYR-yach-dal",
+    "example": "Tha i eireachdail. — She is beautiful.",
+    "category": "emotions"
+  },
+  {
+    "word": "grànda",
+    "meaning": "ugly",
+    "pronunciation": "GRAHN-duh",
+    "example": "Tha e grànda. — It is ugly.",
+    "category": "emotions"
+  },
+  {
+    "word": "òg",
+    "meaning": "young",
+    "pronunciation": "OHK",
+    "example": "Tha e òg. — He is young.",
+    "category": "emotions"
+  },
+  {
+    "word": "aosd",
+    "meaning": "old (of people)",
+    "pronunciation": "OOH-st",
+    "example": "Tha e aosd. — He is old.",
+    "category": "emotions"
+  },
+  {
+    "word": "beò",
+    "meaning": "alive / living",
+    "pronunciation": "BYAW",
+    "example": "Tha e beò. — He is alive.",
+    "category": "emotions"
+  },
+  {
+    "word": "marbh",
+    "meaning": "dead",
+    "pronunciation": "MAR-av",
+    "example": "Tha e marbh. — He is dead.",
+    "category": "emotions"
+  },
+  {
+    "word": "còmhla ri",
+    "meaning": "along with / together with",
+    "pronunciation": "KOH-la ree",
+    "example": "Thàinig e còmhla ri mo charaid. — He came along with my friend.",
+    "category": "abstract"
+  },
+  {
+    "word": "a rèir",
+    "meaning": "according to",
+    "pronunciation": "uh RAYR",
+    "example": "A rèir an sgeulachd... — According to the story...",
+    "category": "abstract"
+  },
+  {
+    "word": "air sgàth",
+    "meaning": "because of / for the sake of",
+    "pronunciation": "air SKAH",
+    "example": "Air sgàth na fìrinn... — For the sake of truth...",
+    "category": "abstract"
+  },
+  {
+    "word": "a dh'aindeoin",
+    "meaning": "despite / in spite of",
+    "pronunciation": "uh HIN-jin",
+    "example": "A dh'aindeoin sin... — Despite that...",
+    "category": "abstract"
+  },
+  {
+    "word": "mar eisimpleir",
+    "meaning": "for example",
+    "pronunciation": "mar AY-shim-plyer",
+    "example": "Mar eisimpleir... — For example...",
+    "category": "abstract"
+  },
+  {
+    "word": "air neo",
+    "meaning": "or / otherwise",
+    "pronunciation": "air NYAW",
+    "example": "Thig air neo falbh. — Come or go.",
+    "category": "abstract"
+  },
+  {
+    "word": "agus",
+    "meaning": "and",
+    "pronunciation": "AH-gus",
+    "example": "Tha mi agus thu. — I am and you are.",
+    "category": "abstract"
+  },
+  {
+    "word": "ach",
+    "meaning": "but",
+    "pronunciation": "ACH",
+    "example": "Tha mi sgìth ach toilichte. — I am tired but happy.",
+    "category": "abstract"
+  },
+  {
+    "word": "oir",
+    "meaning": "for / because",
+    "pronunciation": "OR",
+    "example": "Tha mi sgìth oir bha mi ag obair. — I am tired because I was working.",
+    "category": "abstract"
+  },
+  {
+    "word": "ma",
+    "meaning": "if",
+    "pronunciation": "MAH",
+    "example": "Ma thàinig thu... — If you came...",
+    "category": "abstract"
+  },
+  {
+    "word": "ged",
+    "meaning": "although / though",
+    "pronunciation": "GET",
+    "example": "Ged tha mi sgìth... — Although I am tired...",
+    "category": "abstract"
+  },
+  {
+    "word": "nuair a",
+    "meaning": "when",
+    "pronunciation": "NOO-ar uh",
+    "example": "Nuair a thàinig mi... — When I came...",
+    "category": "time"
+  },
+  {
+    "word": "mus",
+    "meaning": "before",
+    "pronunciation": "MOOS",
+    "example": "Mus tàinig mi... — Before I came...",
+    "category": "time"
+  },
+  {
+    "word": "an dèidh dhut",
+    "meaning": "after you",
+    "pronunciation": "un JAY ghut",
+    "example": "An dèidh dhut tighinn... — After you came...",
+    "category": "time"
+  },
+  {
+    "word": "gus an",
+    "meaning": "until",
+    "pronunciation": "goos un",
+    "example": "Gus an tàinig mi... — Until I came...",
+    "category": "time"
+  },
+  {
+    "word": "fad 's",
+    "meaning": "while / as long as",
+    "pronunciation": "FAHTS",
+    "example": "Fad 's a tha mi an seo... — While I am here...",
+    "category": "time"
+  },
+  {
+    "word": "mar sin",
+    "meaning": "so / thus / therefore",
+    "pronunciation": "mar SHIN",
+    "example": "Mar sin, thàinig mi. — So, I came.",
+    "category": "abstract"
+  },
+  {
+    "word": "co-dhiù",
+    "meaning": "anyway / in any case",
+    "pronunciation": "koh-YOO",
+    "example": "Co-dhiù, thàinig mi. — Anyway, I came.",
+    "category": "abstract"
+  },
+  {
+    "word": "gu dearbh",
+    "meaning": "indeed / certainly",
+    "pronunciation": "goo JER-av",
+    "example": "Gu dearbh, thàinig mi. — Indeed, I came.",
+    "category": "abstract"
+  },
+  {
+    "word": "gu fortanach",
+    "meaning": "fortunately / luckily",
+    "pronunciation": "goo FOR-tan-ach",
+    "example": "Gu fortanach, thàinig mi. — Fortunately, I came.",
+    "category": "abstract"
+  },
+  {
+    "word": "gu mì-fhortanach",
+    "meaning": "unfortunately",
+    "pronunciation": "goo MEE-for-tan-ach",
+    "example": "Gu mì-fhortanach, cha tàinig mi. — Unfortunately, I didn't come.",
+    "category": "abstract"
+  },
+  {
+    "word": "gu h-ìre mhath",
+    "meaning": "quite / fairly",
+    "pronunciation": "goo HEE-ruh vah",
+    "example": "Tha e gu h-ìre mhath. — It is quite good.",
+    "category": "abstract"
+  },
+  {
+    "word": "gu tur",
+    "meaning": "completely / entirely",
+    "pronunciation": "goo TOOR",
+    "example": "Tha e gu tur. — It is completely.",
+    "category": "abstract"
+  },
+  {
+    "word": "gu leòr",
+    "meaning": "enough / plenty",
+    "pronunciation": "goo LYORR",
+    "example": "Tha e gu leòr. — It is enough.",
+    "category": "abstract"
+  },
+  {
+    "word": "ro",
+    "meaning": "too / very",
+    "pronunciation": "ROH",
+    "example": "Tha e ro fhuar. — It is too cold.",
+    "category": "abstract"
+  },
+  {
+    "word": "glè",
+    "meaning": "very",
+    "pronunciation": "GLAY",
+    "example": "Tha e glè mhath. — It is very good.",
+    "category": "abstract"
+  },
+  {
+    "word": "uabhasach",
+    "meaning": "terrible / awful / very",
+    "pronunciation": "OO-vas-ach",
+    "example": "Tha e uabhasach fhuar. — It is terribly cold.",
+    "category": "abstract"
+  },
+  {
+    "word": "cho... ri",
+    "meaning": "as... as",
+    "pronunciation": "choh... ree",
+    "example": "Tha e cho fuar ri deigh. — It is as cold as ice.",
+    "category": "grammar"
+  },
+  {
+    "word": "nas... na",
+    "meaning": "more... than",
+    "pronunciation": "nas... nuh",
+    "example": "Tha e nas fhuar na an-dè. — It is colder than yesterday.",
+    "category": "grammar"
+  },
+  {
+    "word": "as... (a)",
+    "meaning": "most... (the)",
+    "pronunciation": "as... uh",
+    "example": "Tha e as fhuar (a) h-uile. — It is the coldest of all.",
+    "category": "grammar"
+  },
+  {
+    "word": "barrachd air",
+    "meaning": "more than",
+    "pronunciation": "BAHR-achk air",
+    "example": "Tha barrachd air ceud duine an seo. — There are more than a hundred people here.",
+    "category": "numbers"
+  },
+  {
+    "word": "nas lugha na",
+    "meaning": "less than / fewer than",
+    "pronunciation": "nas LOO-gha nuh",
+    "example": "Tha nas lugha na ceud duine an seo. — There are fewer than a hundred people here.",
+    "category": "numbers"
+  },
+  {
+    "word": "a h-uile",
+    "meaning": "every / each",
+    "pronunciation": "uh HOO-il-yuh",
+    "example": "A h-uile duine. — Every person.",
+    "category": "numbers"
+  },
+  {
+    "word": "an t-eilean",
+    "meaning": "the island",
+    "pronunciation": "un CHEL-yan",
+    "example": "Tha mi anns an t-eilean. — I am on the island.",
+    "category": "places"
+  },
+  {
+    "word": "a' cholaiste",
+    "meaning": "the college",
+    "pronunciation": "uh CHOL-ish-chuh",
+    "example": "Tha mi aig a' cholaiste. — I am at the college.",
+    "category": "places"
+  },
+  {
+    "word": "an t-ollamh",
+    "meaning": "the professor",
+    "pronunciation": "un TOL-av",
+    "example": "Tha an t-ollamh an seo. — The professor is here.",
+    "category": "people"
+  },
+  {
+    "word": "an sgoilear",
+    "meaning": "the student",
+    "pronunciation": "un SKOL-yar",
+    "example": "Tha an sgoilear ag ionnsachadh. — The student is learning.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-teagaisg",
+    "meaning": "the teachers",
+    "pronunciation": "un LOOCHT-chek-ishk",
+    "example": "Tha an luchd-teagaisg an seo. — The teachers are here.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-obrach",
+    "meaning": "the workers",
+    "pronunciation": "un LOOCHT-oh-brach",
+    "example": "Tha an luchd-obrach ag obair. — The workers are working.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-còmhnaidh",
+    "meaning": "the inhabitants / residents",
+    "pronunciation": "un LOOCHT-KOHN-ee",
+    "example": "Tha an luchd-còmhnaidh sona. — The inhabitants are happy.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-turas",
+    "meaning": "the tourists / travellers",
+    "pronunciation": "un LOOCHT-TOO-ras",
+    "example": "Tha an luchd-turas anns a' bhaile. — The tourists are in the town.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-labhairt",
+    "meaning": "the speakers",
+    "pronunciation": "un LOOCHT-LAH-vurt",
+    "example": "Tha an luchd-labhairt Gàidhlig an seo. — The Gaelic speakers are here.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-èisteachd",
+    "meaning": "the listeners / audience",
+    "pronunciation": "un LOOCHT-AYSCH-achk",
+    "example": "Tha an luchd-èisteachd an seo. — The audience is here.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-leughaidh",
+    "meaning": "the readers",
+    "pronunciation": "un LOOCHT-LYAY-ee",
+    "example": "Tha an luchd-leughaidh an seo. — The readers are here.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-sgrìobhaidh",
+    "meaning": "the writers",
+    "pronunciation": "un LOOCHT-SKREE-vee",
+    "example": "Tha an luchd-sgrìobhaidh an seo. — The writers are here.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-ealain",
+    "meaning": "the artists",
+    "pronunciation": "un LOOCHT-YAH-lan",
+    "example": "Tha an luchd-ealain an seo. — The artists are here.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-ceòil",
+    "meaning": "the musicians",
+    "pronunciation": "un LOOCHT-KYAWL",
+    "example": "Tha an luchd-ceòil a' cluich. — The musicians are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-dannsa",
+    "meaning": "the dancers",
+    "pronunciation": "un LOOCHT-DAHN-suh",
+    "example": "Tha an luchd-dannsa a' dannsa. — The dancers are dancing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-ciùil traidiseanta",
+    "meaning": "the traditional musicians",
+    "pronunciation": "un LOOCHT-KYOO-il TRAH-dish-an-tuh",
+    "example": "Tha an luchd-ciùil traidiseanta a' cluich. — The traditional musicians are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-pìobaireachd",
+    "meaning": "the pipers",
+    "pronunciation": "un LOOCHT-PEE-bree-achk",
+    "example": "Tha an luchd-pìobaireachd a' cluich. — The pipers are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-drumaireachd",
+    "meaning": "the drummers",
+    "pronunciation": "un LOOCHT-DROO-mar-achk",
+    "example": "Tha an luchd-drumaireachd a' cluich. — The drummers are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-fìdhleireachd",
+    "meaning": "the fiddlers",
+    "pronunciation": "un LOOCHT-FEE-lar-achk",
+    "example": "Tha an luchd-fìdhleireachd a' cluich. — The fiddlers are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-cruitireachd",
+    "meaning": "the harpists",
+    "pronunciation": "un LOOCHT-KROO-tee-rachk",
+    "example": "Tha an luchd-cruitireachd a' cluich. — The harpists are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-bodhrànaireachd",
+    "meaning": "the bodhran players",
+    "pronunciation": "un LOOCHT-bor-RAH-nar-achk",
+    "example": "Tha an luchd-bodhrànaireachd a' cluich. — The bodhran players are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-dannsa traidiseanta",
+    "meaning": "the traditional dancers",
+    "pronunciation": "un LOOCHT-DAHN-suh TRAH-dish-an-tuh",
+    "example": "Tha an luchd-dannsa traidiseanta a' dannsa. — The traditional dancers are dancing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-dannsa gàidhealach",
+    "meaning": "the Highland dancers",
+    "pronunciation": "un LOOCHT-DAHN-suh GAH-yil-ach",
+    "example": "Tha an luchd-dannsa gàidhealach a' dannsa. — The Highland dancers are dancing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-dannsa ceum",
+    "meaning": "the step dancers",
+    "pronunciation": "un LOOCHT-DAHN-suh KYAY-um",
+    "example": "Tha an luchd-dannsa ceum a' dannsa. — The step dancers are dancing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-dannsa còmhla",
+    "meaning": "the social dancers",
+    "pronunciation": "un LOOCHT-DAHN-suh KOH-la",
+    "example": "Tha an luchd-dannsa còmhla a' dannsa. — The social dancers are dancing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-dannsa ball-coise",
+    "meaning": "the footballers",
+    "pronunciation": "un LOOCHT-DAHN-suh bal-KOSH-uh",
+    "example": "Tha an luchd-dannsa ball-coise a' cluich. — The footballers are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-spòrs gàidhealach",
+    "meaning": "the Highland games athletes",
+    "pronunciation": "un LOOCHT-SPAWRS GAH-yil-ach",
+    "example": "Tha an luchd-spòrs gàidhealach ag ionnsachadh. — The Highland games athletes are training.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-camanachd",
+    "meaning": "the shinty players",
+    "pronunciation": "un LOOCHT-KAH-man-achk",
+    "example": "Tha an luchd-camanachd a' cluich. — The shinty players are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-golf",
+    "meaning": "the golfers",
+    "pronunciation": "un LOOCHT-golf",
+    "example": "Tha an luchd-golf a' cluich. — The golfers are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-curling",
+    "meaning": "the curlers",
+    "pronunciation": "un LOOCHT-KER-ling",
+    "example": "Tha an luchd-curling a' cluich. — The curlers are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-rugbaidh",
+    "meaning": "the rugby players",
+    "pronunciation": "un LOOCHT-ROO-bee",
+    "example": "Tha an luchd-rugbaidh a' cluich. — The rugby players are playing.",
+    "category": "people"
+  },
+  {
+    "word": "an luchd-iomain",
+    "meaning": "the drivers / pilots",
+    "pronunciation": "un LOOCHT-IM-an",
+    "example": "Tha an luchd-iomain ag obair. — The drivers are working.",
+    "category": "people"
+  },
+  {
+    "word": "Am Faoilleach",
+    "meaning": "January",
+    "pronunciation": "am FOOL-yach",
+    "example": "Tha mi a' dol ann an Am Faoilleach. — I am going in January.",
+    "category": "months"
+  },
+  {
+    "word": "An Gearran",
+    "meaning": "February",
+    "pronunciation": "un GYAR-an",
+    "example": "Tha e fuar anns An Gearran. — It is cold in February.",
+    "category": "months"
+  },
+  {
+    "word": "Am Màrt",
+    "meaning": "March",
+    "pronunciation": "am MAHRT",
+    "example": "Tha an earrach a' tighinn anns Am Màrt. — Spring is coming in March.",
+    "category": "months"
+  },
+  {
+    "word": "An Giblean",
+    "meaning": "April",
+    "pronunciation": "un GIP-lan",
+    "example": "Tha blàth anns An Giblean. — It is warm in April.",
+    "category": "months"
+  },
+  {
+    "word": "An Cèitean",
+    "meaning": "May",
+    "pronunciation": "un KAY-tee-an",
+    "example": "Tha na flùraichean brèagha anns An Cèitean. — The flowers are beautiful in May.",
+    "category": "months"
+  },
+  {
+    "word": "An t-Ògmhios",
+    "meaning": "June",
+    "pronunciation": "un TOHK-vee-os",
+    "example": "Tha an samhradh anns An t-Ògmhios. — Summer is in June.",
+    "category": "months"
+  },
+  {
+    "word": "An t-Iuchar",
+    "meaning": "July",
+    "pronunciation": "un CHEE-uchar",
+    "example": "Tha e teth anns An t-Iuchar. — It is hot in July.",
+    "category": "months"
+  },
+  {
+    "word": "An Lùnastal",
+    "meaning": "August",
+    "pronunciation": "un LOO-nas-tal",
+    "example": "Tha an Lùnastal mòr airson fèisean. — August is big for festivals.",
+    "category": "months"
+  },
+  {
+    "word": "An t-Sultain",
+    "meaning": "September",
+    "pronunciation": "un SOOL-teen",
+    "example": "Tha an t-Sultain am bliadhna. — September this year.",
+    "category": "months"
+  },
+  {
+    "word": "An Dàmhair",
+    "meaning": "October",
+    "pronunciation": "un DAH-vhar",
+    "example": "Tha duilleagan a' tuiteam anns An Dàmhair. — Leaves are falling in October.",
+    "category": "months"
+  },
+  {
+    "word": "An t-Samhain",
+    "meaning": "November",
+    "pronunciation": "un SAH-win",
+    "example": "Tha e fuar anns An t-Samhain. — It is cold in November.",
+    "category": "months"
+  },
+  {
+    "word": "An Dùbhlachd",
+    "meaning": "December",
+    "pronunciation": "un DOO-lachk",
+    "example": "Tha Nollaig anns An Dùbhlachd. — Christmas is in December.",
+    "category": "months"
+  },
+  {
+    "word": "Glaschu",
+    "meaning": "Glasgow",
+    "pronunciation": "GLAS-khoo",
+    "example": "Tha mi a' fuireach ann an Glaschu. — I live in Glasgow.",
+    "category": "cities"
+  },
+  {
+    "word": "Dùn Èideann",
+    "meaning": "Edinburgh",
+    "pronunciation": "DOON AY-tee-an",
+    "example": "Tha Dùn Èideann prìomh-bhaile na h-Alba. — Edinburgh is the capital of Scotland.",
+    "category": "cities"
+  },
+  {
+    "word": "Inbhir Nis",
+    "meaning": "Inverness",
+    "pronunciation": "IN-veer NEESH",
+    "example": "Tha Inbhir Nis anns a' Ghàidhealtachd. — Inverness is in the Highlands.",
+    "category": "cities"
+  },
+  {
+    "word": "Dùn Dèagh",
+    "meaning": "Dundee",
+    "pronunciation": "DOON JAY-akh",
+    "example": "Tha Dùn Dèagh air an ear-thuath. — Dundee is in the northeast.",
+    "category": "cities"
+  },
+  {
+    "word": "Obar Dheathain",
+    "meaning": "Aberdeen",
+    "pronunciation": "OH-bar YEE-an",
+    "example": "Tha Obar Dheathain na baile mòr. — Aberdeen is a big city.",
+    "category": "cities"
+  },
+  {
+    "word": "Sruighlea",
+    "meaning": "Stirling",
+    "pronunciation": "SROO-ee-lyuh",
+    "example": "Tha Sruighlea faisg air Dùn Èideann. — Stirling is near Edinburgh.",
+    "category": "cities"
+  },
+  {
+    "word": "Peairt",
+    "meaning": "Perth",
+    "pronunciation": "PYAYRT",
+    "example": "Tha Peairt air an Abhainn Tày. — Perth is on the River Tay.",
+    "category": "cities"
+  },
+  {
+    "word": "Dùn Phàrlain",
+    "meaning": "Dunfermline",
+    "pronunciation": "DOON FAR-lan",
+    "example": "Tha Dùn Phàrlain ann an Fìobha. — Dunfermline is in Fife.",
+    "category": "cities"
+  },
+  {
+    "word": "Cille Chùil",
+    "meaning": "Kirkcaldy",
+    "pronunciation": "KEEL-yuh KOO-il",
+    "example": "Tha Cille Chùil air an ear-thuath. — Kirkcaldy is on the east coast.",
+    "category": "cities"
+  },
+  {
+    "word": "Còrnair",
+    "meaning": "Corneray / Kilmarnock area",
+    "pronunciation": "KOR-nar",
+    "example": "Tha Còrnair ann an Siorrachd Àir. — Kilmarnock is in Ayrshire.",
+    "category": "cities"
+  },
+  {
+    "word": "An t-Àth Leathann",
+    "meaning": "Ayr",
+    "pronunciation": "un AH HLAH-an",
+    "example": "Tha An t-Àth Leathann faisg air a' chladach. — Ayr is near the coast.",
+    "category": "cities"
+  },
+  {
+    "word": "Cille Bhrìghde",
+    "meaning": "Kilbride",
+    "pronunciation": "KEEL-yuh VREE-juh",
+    "example": "Tha Cille Bhrìghde faisg air Glaschu. — Kilbride is near Glasgow.",
+    "category": "cities"
+  },
+  {
+    "word": "An t-Sròn Reamhar",
+    "meaning": "Greenock",
+    "pronunciation": "un STRAWN REE-var",
+    "example": "Tha An t-Sròn Reamhar air a' chladach an iar. — Greenock is on the west coast.",
+    "category": "cities"
+  },
+  {
+    "word": "Port Rìgh",
+    "meaning": "Portree (Isle of Skye)",
+    "pronunciation": "PORT REE",
+    "example": "Tha Port Rìgh prìomh-bhaile an Eilein Sgitheanaich. — Portree is the capital of Skye.",
+    "category": "cities"
+  },
+  {
+    "word": "Steòrnabhagh",
+    "meaning": "Stornoway (Isle of Lewis)",
+    "pronunciation": "STYOR-nuh-vakh",
+    "example": "Tha Steòrnabhagh ann an Leòdhas. — Stornoway is in Lewis.",
+    "category": "cities"
+  },
+  {
+    "word": "Loch nam Madadh",
+    "meaning": "Lochmaddy (North Uist)",
+    "pronunciation": "LOCH nam MAD-akh",
+    "example": "Tha Loch nam Madadh ann an Uibhist a Tuath. — Lochmaddy is in North Uist.",
+    "category": "cities"
+  },
+  {
+    "word": "Baile a' Chaolais",
+    "meaning": " Kyleakin (Skye)",
+    "pronunciation": "BAL-uh uh KHOO-lish",
+    "example": "Tha Baile a' Chaolais faisg air drochaid an Eilein Sgitheanaich. — Kyleakin is near the Skye Bridge.",
+    "category": "cities"
+  },
+  {
+    "word": "Fàsach",
+    "meaning": "Fort William",
+    "pronunciation": "FAH-sach",
+    "example": "Tha Fàsach aig bonn Beinn Nibheis. — Fort William is at the foot of Ben Nevis.",
+    "category": "cities"
+  },
+  {
+    "word": "An t-Òban",
+    "meaning": "Oban",
+    "pronunciation": "un TAW-ban",
+    "example": "Tha An t-Òban na phort mòr. — Oban is a major port.",
+    "category": "cities"
+  },
+  {
+    "word": "Inbhir Pheofharain",
+    "meaning": "Dingwall",
+    "pronunciation": "IN-veer FYOF-ar-an",
+    "example": "Tha Inbhir Pheofharain ann an Ros an Iar. — Dingwall is in Easter Ross.",
+    "category": "cities"
+  },
+  {
+    "word": "Baile Dhubhthaich",
+    "meaning": "Tain",
+    "pronunciation": "BAL-uh GHOO-hich",
+    "example": "Tha Baile Dhubhthaich ann an Ros an Iar. — Tain is in Easter Ross.",
+    "category": "cities"
+  },
+  {
+    "word": "Inbhir Theòrsa",
+    "meaning": "Thurso",
+    "pronunciation": "IN-veer HYOR-suh",
+    "example": "Tha Inbhir Theòrsa air an ear-thuath. — Thurso is in the far north.",
+    "category": "cities"
+  },
+  {
+    "word": "Wick",
+    "meaning": "Wick",
+    "pronunciation": "WIK",
+    "example": "Tha Wick ann an Gallaibh. — Wick is in Caithness.",
+    "category": "cities"
+  },
+  {
+    "word": "Sasainn",
+    "meaning": "England",
+    "pronunciation": "SAH-san",
+    "example": "Tha Sasainn gu deas air Alba. — England is south of Scotland.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chuimrigh",
+    "meaning": "Wales",
+    "pronunciation": "uh HOO-im-ree",
+    "example": "Tha A' Chuimrigh anns an taobh an iar-dheas. — Wales is in the southwest.",
+    "category": "countries"
+  },
+  {
+    "word": "Èirinn",
+    "meaning": "Ireland",
+    "pronunciation": "AY-rin",
+    "example": "Tha Èirinn faisg air Alba. — Ireland is close to Scotland.",
+    "category": "countries"
+  },
+  {
+    "word": "Breatainn",
+    "meaning": "Britain",
+    "pronunciation": "BREH-tan",
+    "example": "Tha Alba ann an Breatainn. — Scotland is in Britain.",
+    "category": "countries"
+  },
+  {
+    "word": "An Fhraing",
+    "meaning": "France",
+    "pronunciation": "un RANG",
+    "example": "Tha An Fhraing mòr agus brèagha. — France is big and beautiful.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Ghearmailt",
+    "meaning": "Germany",
+    "pronunciation": "uh YAR-malt",
+    "example": "Tha A' Ghearmailt anns an Roinn-Eòrpa. — Germany is in Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "An Eadailt",
+    "meaning": "Italy",
+    "pronunciation": "un ET-alch",
+    "example": "Tha An Eadailt teth agus grianach. — Italy is hot and sunny.",
+    "category": "countries"
+  },
+  {
+    "word": "An Spàinn",
+    "meaning": "Spain",
+    "pronunciation": "un SPAHN",
+    "example": "Tha An Spàinn teth anns an t-samhradh. — Spain is hot in summer.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Phortagail",
+    "meaning": "Portugal",
+    "pronunciation": "uh FOR-ta-gal",
+    "example": "Tha A' Phortagail air an iar-dheas. — Portugal is in the southwest.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Seic",
+    "meaning": "Czech Republic",
+    "pronunciation": "un SHEK",
+    "example": "Tha An t-Seic anns an Roinn-Eòrpa Mheadhanach. — Czech Republic is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Phòlainn",
+    "meaning": "Poland",
+    "pronunciation": "uh FAW-lan",
+    "example": "Tha A' Phòlainn mòr. — Poland is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An Ungair",
+    "meaning": "Hungary",
+    "pronunciation": "un OON-gar",
+    "example": "Tha An Ungair anns an Roinn-Eòrpa Mheadhanach. — Hungary is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "An Ostair",
+    "meaning": "Austria",
+    "pronunciation": "un OSH-tar",
+    "example": "Tha An Ostair beairteach. — Austria is wealthy.",
+    "category": "countries"
+  },
+  {
+    "word": "An Eilbheis",
+    "meaning": "Switzerland",
+    "pronunciation": "un EL-ves",
+    "example": "Tha An Eilbheis nam beanntan àrda. — Switzerland has high mountains.",
+    "category": "countries"
+  },
+  {
+    "word": "An Danmhairg",
+    "meaning": "Denmark",
+    "pronunciation": "un DAN-varshk",
+    "example": "Tha An Danmhairg anns an àirde a tuath. — Denmark is in the north.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Suain",
+    "meaning": "Sweden",
+    "pronunciation": "un SOO-an",
+    "example": "Tha An t-Suain fuar anns an t-earrach. — Sweden is cold in winter.",
+    "category": "countries"
+  },
+  {
+    "word": "An Nirribhidh",
+    "meaning": "Norway",
+    "pronunciation": "un NEE-ree-vee",
+    "example": "Tha An Nirribhidh làn fjords. — Norway is full of fjords.",
+    "category": "countries"
+  },
+  {
+    "word": "An Fhionnlann",
+    "meaning": "Finland",
+    "pronunciation": "un YOON-lan",
+    "example": "Tha An Fhionnlann fuar. — Finland is cold.",
+    "category": "countries"
+  },
+  {
+    "word": "An Ruis",
+    "meaning": "Russia",
+    "pronunciation": "un ROOSH",
+    "example": "Tha An Ruis mòr. — Russia is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Seic",
+    "meaning": "Czech Republic",
+    "pronunciation": "un SHEK",
+    "example": "Tha An t-Seic beag. — Czech Republic is small.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Slòbhac",
+    "meaning": "Slovakia",
+    "pronunciation": "un SLOH-vak",
+    "example": "Tha An t-Slòbhac anns an Roinn-Eòrpa Mheadhanach. — Slovakia is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Slòbhain",
+    "meaning": "Slovenia",
+    "pronunciation": "un SLOH-veen",
+    "example": "Tha An t-Slòbhain beag. — Slovenia is small.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chròthais",
+    "meaning": "Croatia",
+    "pronunciation": "uh HROH-tish",
+    "example": "Tha A' Chròthais air a' chladach. — Croatia is on the coast.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sèirb",
+    "meaning": "Serbia",
+    "pronunciation": "un SHAIRP",
+    "example": "Tha An t-Sèirb anns an Roinn-Eòrpa Mheadhanach. — Serbia is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "Bosna agus Hearsagobhana",
+    "meaning": "Bosnia and Herzegovina",
+    "pronunciation": "BOS-nuh ah-gus HAR-sa-goh-van-uh",
+    "example": "Tha Bosna agus Hearsagobhana anns an Roinn-Eòrpa Mheadhanach. — Bosnia and Herzegovina is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "An Mhontainearachd",
+    "meaning": "Montenegro",
+    "pronunciation": "un VON-tee-nyar-achk",
+    "example": "Tha An Mhontainearachd beag. — Montenegro is small.",
+    "category": "countries"
+  },
+  {
+    "word": "An Albain",
+    "meaning": "Albania",
+    "pronunciation": "un AL-a-pan-ee",
+    "example": "Tha An Albain anns an Roinn-Eòrpa a Deas. — Albania is in Southern Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Ghrèig",
+    "meaning": "Greece",
+    "pronunciation": "uh HRAYK",
+    "example": "Tha A' Ghrèig teth. — Greece is hot.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Bhulgair",
+    "meaning": "Bulgaria",
+    "pronunciation": "uh VOOL-gar",
+    "example": "Tha A' Bhulgair anns an Roinn-Eòrpa a Deas. — Bulgaria is in Southern Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "Romàinia",
+    "meaning": "Romania",
+    "pronunciation": "roh-MAHN-ya",
+    "example": "Tha Romàinia mòr. — Romania is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An Tuirc",
+    "meaning": "Turkey",
+    "pronunciation": "un TOORK",
+    "example": "Tha An Tuirc eadar an Roinn-Eòrpa agus Àisia. — Turkey is between Europe and Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "An Òlaind",
+    "meaning": "Netherlands / Holland",
+    "pronunciation": "un AW-lant",
+    "example": "Tha An Òlaind flat. — The Netherlands is flat.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Bheilg",
+    "meaning": "Belgium",
+    "pronunciation": "uh VALYK",
+    "example": "Tha A' Bheilg beag. — Belgium is small.",
+    "category": "countries"
+  },
+  {
+    "word": "Lucsamburg",
+    "meaning": "Luxembourg",
+    "pronunciation": "LOOK-sam-boorg",
+    "example": "Tha Lucsamburg beag. — Luxembourg is small.",
+    "category": "countries"
+  },
+  {
+    "word": "An Eilbheis",
+    "meaning": "Switzerland",
+    "pronunciation": "un EL-ves",
+    "example": "Tha An Eilbheis beairteach. — Switzerland is wealthy.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sruighlea",
+    "meaning": "Sri Lanka",
+    "pronunciation": "un SROO-ee-lyuh",
+    "example": "Tha An t-Sruighlea anns an Àisia. — Sri Lanka is in Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "An India",
+    "meaning": "India",
+    "pronunciation": "un IN-dee-uh",
+    "example": "Tha An India mòr. — India is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sìn",
+    "meaning": "China",
+    "pronunciation": "un SHEEN",
+    "example": "Tha An t-Sìn na dùthaich mhòr. — China is a big country.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Seapan",
+    "meaning": "Japan",
+    "pronunciation": "un SHEP-an",
+    "example": "Tha An t-Seapan anns an Àisia an Ear. — Japan is in East Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chòirèa",
+    "meaning": "Korea",
+    "pronunciation": "uh HOR-ee-uh",
+    "example": "Tha A' Chòirèa anns an Àisia an Ear. — Korea is in East Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "An Astràilia",
+    "meaning": "Australia",
+    "pronunciation": "un ASH-trah-lee-uh",
+    "example": "Tha An Astràilia fada air falbh. — Australia is far away.",
+    "category": "countries"
+  },
+  {
+    "word": "Sealainn Nuadh",
+    "meaning": "New Zealand",
+    "pronunciation": "SHAL-an NOO-uh",
+    "example": "Tha Sealainn Nuadh anns a' Chuan Sèimh. — New Zealand is in the Pacific Ocean.",
+    "category": "countries"
+  },
+  {
+    "word": "Afraga a Deas",
+    "meaning": "South Africa",
+    "pronunciation": "AH-fra-ga uh JAS",
+    "example": "Tha Afraga a Deas anns an Afraga. — South Africa is in Africa.",
+    "category": "countries"
+  },
+  {
+    "word": "An Èipheit",
+    "meaning": "Egypt",
+    "pronunciation": "un AY-fit",
+    "example": "Tha An Èipheit teth. — Egypt is hot.",
+    "category": "countries"
+  },
+  {
+    "word": "An Mhoroco",
+    "meaning": "Morocco",
+    "pronunciation": "un VOR-oh-koh",
+    "example": "Tha An Mhoroco anns an Afraga a Tuath. — Morocco is in North Africa.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chanaid",
+    "meaning": "Canada",
+    "pronunciation": "uh HAH-naj",
+    "example": "Tha A' Chanaid mòr. — Canada is big.",
+    "category": "countries"
+  },
+  {
+    "word": "Na Stàitean Aonaichte",
+    "meaning": "United States",
+    "pronunciation": "nuh SHTAH-tee-an OON-ich-chuh",
+    "example": "Tha Na Stàitean Aonaichte mòr. — The United States is big.",
+    "category": "countries"
+  },
+  {
+    "word": "Meagsago",
+    "meaning": "Mexico",
+    "pronunciation": "MEK-sa-goh",
+    "example": "Tha Meagsago anns a' Mheagsago. — Mexico is in Mexico.",
+    "category": "countries"
+  },
+  {
+    "word": "Braisil",
+    "meaning": "Brazil",
+    "pronunciation": "BRASH-il",
+    "example": "Tha Braisil mòr. — Brazil is big.",
+    "category": "countries"
+  },
+  {
+    "word": "Airgintean",
+    "meaning": "Argentina",
+    "pronunciation": "AIR-gin-tee-an",
+    "example": "Tha Airgintean anns a' Mhearachd a Deas. — Argentina is in South America.",
+    "category": "countries"
+  },
+  {
+    "word": "Sile",
+    "meaning": "Chile",
+    "pronunciation": "SHEE-luh",
+    "example": "Tha Sile fada. — Chile is long.",
+    "category": "countries"
+  },
+  {
+    "word": "Coloimbia",
+    "meaning": "Colombia",
+    "pronunciation": "koh-LOHM-bee-uh",
+    "example": "Tha Coloimbia anns a' Mhearachd a Deas. — Colombia is in South America.",
+    "category": "countries"
+  },
+  {
+    "word": "Pheru",
+    "meaning": "Peru",
+    "pronunciation": "FAY-roo",
+    "example": "Tha Pheru anns a' Mhearachd a Deas. — Peru is in South America.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Suaine",
+    "meaning": "Sweden",
+    "pronunciation": "un SOO-an-yuh",
+    "example": "Tha An t-Suaine fuar. — Sweden is cold.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sròn",
+    "meaning": "Norway",
+    "pronunciation": "un STRAWN",
+    "example": "Tha An t-Sròn fuar. — Norway is cold.",
+    "category": "countries"
+  },
+  {
+    "word": "An Fhionnlann",
+    "meaning": "Finland",
+    "pronunciation": "un YOON-lan",
+    "example": "Tha An Fhionnlann fuar. — Finland is cold.",
+    "category": "countries"
+  },
+  {
+    "word": "An Ruis",
+    "meaning": "Russia",
+    "pronunciation": "un ROOSH",
+    "example": "Tha An Ruis mòr. — Russia is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Seic",
+    "meaning": "Czech Republic",
+    "pronunciation": "un SHEK",
+    "example": "Tha An t-Seic beag. — Czech Republic is small.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Slòbhac",
+    "meaning": "Slovakia",
+    "pronunciation": "un SLOH-vak",
+    "example": "Tha An t-Slòbhac anns an Roinn-Eòrpa Mheadhanach. — Slovakia is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Slòbhain",
+    "meaning": "Slovenia",
+    "pronunciation": "un SLOH-veen",
+    "example": "Tha An t-Slòbhain beag. — Slovenia is small.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chròthais",
+    "meaning": "Croatia",
+    "pronunciation": "uh HROH-tish",
+    "example": "Tha A' Chròthais air a' chladach. — Croatia is on the coast.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sèirb",
+    "meaning": "Serbia",
+    "pronunciation": "un SHAIRP",
+    "example": "Tha An t-Sèirb anns an Roinn-Eòrpa Mheadhanach. — Serbia is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "Bosna agus Hearsagobhana",
+    "meaning": "Bosnia and Herzegovina",
+    "pronunciation": "BOS-nuh ah-gus HAR-sa-goh-van-uh",
+    "example": "Tha Bosna agus Hearsagobhana anns an Roinn-Eòrpa Mheadhanach. — Bosnia and Herzegovina is in Central Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "An Mhontainearachd",
+    "meaning": "Montenegro",
+    "pronunciation": "un VON-tee-nyar-achk",
+    "example": "Tha An Mhontainearachd beag. — Montenegro is small.",
+    "category": "countries"
+  },
+  {
+    "word": "An Albain",
+    "meaning": "Albania",
+    "pronunciation": "un AL-a-pan-ee",
+    "example": "Tha An Albain anns an Roinn-Eòrpa a Deas. — Albania is in Southern Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Ghrèig",
+    "meaning": "Greece",
+    "pronunciation": "uh HRAYK",
+    "example": "Tha A' Ghrèig teth. — Greece is hot.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Bhulgair",
+    "meaning": "Bulgaria",
+    "pronunciation": "uh VOOL-gar",
+    "example": "Tha A' Bhulgair anns an Roinn-Eòrpa a Deas. — Bulgaria is in Southern Europe.",
+    "category": "countries"
+  },
+  {
+    "word": "Romàinia",
+    "meaning": "Romania",
+    "pronunciation": "roh-MAHN-ya",
+    "example": "Tha Romàinia mòr. — Romania is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An Tuirc",
+    "meaning": "Turkey",
+    "pronunciation": "un TOORK",
+    "example": "Tha An Tuirc eadar an Roinn-Eòrpa agus Àisia. — Turkey is between Europe and Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "An Òlaind",
+    "meaning": "Netherlands / Holland",
+    "pronunciation": "un AW-lant",
+    "example": "Tha An Òlaind flat. — The Netherlands is flat.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Bheilg",
+    "meaning": "Belgium",
+    "pronunciation": "uh VALYK",
+    "example": "Tha A' Bheilg beag. — Belgium is small.",
+    "category": "countries"
+  },
+  {
+    "word": "Lucsamburg",
+    "meaning": "Luxembourg",
+    "pronunciation": "LOOK-sam-boorg",
+    "example": "Tha Lucsamburg beag. — Luxembourg is small.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sruighlea",
+    "meaning": "Sri Lanka",
+    "pronunciation": "un SROO-ee-lyuh",
+    "example": "Tha An t-Sruighlea anns an Àisia. — Sri Lanka is in Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "An India",
+    "meaning": "India",
+    "pronunciation": "un IN-dee-uh",
+    "example": "Tha An India mòr. — India is big.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Sìn",
+    "meaning": "China",
+    "pronunciation": "un SHEEN",
+    "example": "Tha An t-Sìn na dùthaich mhòr. — China is a big country.",
+    "category": "countries"
+  },
+  {
+    "word": "An t-Seapan",
+    "meaning": "Japan",
+    "pronunciation": "un SHEP-an",
+    "example": "Tha An t-Seapan anns an Àisia an Ear. — Japan is in East Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chòirèa",
+    "meaning": "Korea",
+    "pronunciation": "uh HOR-ee-uh",
+    "example": "Tha A' Chòirèa anns an Àisia an Ear. — Korea is in East Asia.",
+    "category": "countries"
+  },
+  {
+    "word": "An Astràilia",
+    "meaning": "Australia",
+    "pronunciation": "un ASH-trah-lee-uh",
+    "example": "Tha An Astràilia fada air falbh. — Australia is far away.",
+    "category": "countries"
+  },
+  {
+    "word": "Sealainn Nuadh",
+    "meaning": "New Zealand",
+    "pronunciation": "SHAL-an NOO-uh",
+    "example": "Tha Sealainn Nuadh anns a' Chuan Sèimh. — New Zealand is in the Pacific Ocean.",
+    "category": "countries"
+  },
+  {
+    "word": "Afraga a Deas",
+    "meaning": "South Africa",
+    "pronunciation": "AH-fra-ga uh JAS",
+    "example": "Tha Afraga a Deas anns an Afraga. — South Africa is in Africa.",
+    "category": "countries"
+  },
+  {
+    "word": "An Èipheit",
+    "meaning": "Egypt",
+    "pronunciation": "un AY-fit",
+    "example": "Tha An Èipheit teth. — Egypt is hot.",
+    "category": "countries"
+  },
+  {
+    "word": "An Mhoroco",
+    "meaning": "Morocco",
+    "pronunciation": "un VOR-oh-koh",
+    "example": "Tha An Mhoroco anns an Afraga a Tuath. — Morocco is in North Africa.",
+    "category": "countries"
+  },
+  {
+    "word": "A' Chanaid",
+    "meaning": "Canada",
+    "pronunciation": "uh HAH-naj",
+    "example": "Tha A' Chanaid mòr. — Canada is big.",
+    "category": "countries"
+  },
+  {
+    "word": "Na Stàitean Aonaichte",
+    "meaning": "United States",
+    "pronunciation": "nuh SHTAH-tee-an OON-ich-chuh",
+    "example": "Tha Na Stàitean Aonaichte mòr. — The United States is big.",
+    "category": "countries"
+  },
+  {
+    "word": "Meagsago",
+    "meaning": "Mexico",
+    "pronunciation": "MEK-sa-goh",
+    "example": "Tha Meagsago anns a' Mheagsago. — Mexico is in Mexico.",
+    "category": "countries"
+  },
+  {
+    "word": "Braisil",
+    "meaning": "Brazil",
+    "pronunciation": "BRASH-il",
+    "example": "Tha Braisil mòr. — Brazil is big.",
+    "category": "countries"
+  },
+  {
+    "word": "Airgintean",
+    "meaning": "Argentina",
+    "pronunciation": "AIR-gin-tee-an",
+    "example": "Tha Airgintean anns a' Mhearachd a Deas. — Argentina is in South America.",
+    "category": "countries"
+  },
+  {
+    "word": "Sile",
+    "meaning": "Chile",
+    "pronunciation": "SHEE-luh",
+    "example": "Tha Sile fada. — Chile is long.",
+    "category": "countries"
+  },
+  {
+    "word": "Coloimbia",
+    "meaning": "Colombia",
+    "pronunciation": "koh-LOHM-bee-uh",
+    "example": "Tha Coloimbia anns a' Mhearachd a Deas. — Colombia is in South America.",
+    "category": "countries"
+  },
+  {
+    "word": "Pheru",
+    "meaning": "Peru",
+    "pronunciation": "FAY-roo",
+    "example": "Tha Pheru anns a' Mhearachd a Deas. — Peru is in South America.",
+    "category": "countries"
+  }
+]
